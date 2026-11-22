@@ -47,6 +47,16 @@ WRITES_SYSTEM = {
 }
 
 
+# Apps that don't build from their repository as it stands; listed again
+# once they do.
+DOES_NOT_BUILD = {
+    "manopen",  # no GNUmakefile, only an Xcode project
+    "resound",  # no GNUmakefile
+    "vic20",    # only an Xcode project
+    "build",    # links PackageManager.framework from /System, which
+                # Software can't install (it copies into /System itself)
+}
+
 # What NextBSD ships in /System/Applications (and its desktop apps in
 # ~/Applications until they move there). An app that builds one of these
 # names isn't listed, since it would take NextBSD's app's place; and
@@ -67,6 +77,8 @@ def left_out(app, icons):
         return "preference pane (NextBSD's settings apps cover it)"
     if app["id"] in WRITES_SYSTEM:
         return "copies files into /System itself"
+    if app["id"] in DOES_NOT_BUILD:
+        return "doesn't build from its repository"
     if app.get("appName", app["name"]) in NEXTBSD_APPS:
         return "builds %s.app, which NextBSD ships" % app.get("appName",
                                                               app["name"])
