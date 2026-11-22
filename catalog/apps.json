@@ -1,0 +1,1488 @@
+{
+ "apps": [
+  {
+   "id": "aclock",
+   "name": "AClock",
+   "description": "Analog desktop clock",
+   "category": "Utilities",
+   "repo": "nu-gap/apps-aclock",
+   "listedIn": "Build.app",
+   "requires": [
+    "libs-timeui"
+   ]
+  },
+  {
+   "id": "addresses",
+   "name": "Addresses",
+   "appName": "AddressManager",
+   "description": "Address and contacts manager",
+   "category": "Productivity",
+   "repo": "nu-gap/apps-addresses",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "anclock",
+   "name": "AnClock",
+   "description": "Analog desktop clock showing the current time",
+   "category": "Utilities",
+   "repo": "erincodepirate/gs_analog_clock",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "androidscreen",
+   "name": "AndroidScreen",
+   "description": "Mirror and control an Android phone's screen from the desktop",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "AndroidScreen",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "assistants",
+   "name": "Assistants",
+   "description": "Step-by-step assistants for first-time setup and common system tasks",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Assistants",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "audiomixer",
+   "name": "AudioMixer",
+   "description": "Audio mixer control app",
+   "category": "Music & Video",
+   "repo": "nu-gap/apps-audiomixer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "batmon",
+   "name": "BatMon",
+   "appName": "batmon",
+   "description": "Battery monitor for laptops",
+   "category": "System",
+   "repo": "nu-gap/apps-batmon",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "bean",
+   "name": "Bean",
+   "description": "The Bean rich-text editor source port maintained in GAP.",
+   "category": "Productivity",
+   "repo": "nu-gap/apps-bean",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "billiards",
+   "name": "Billiards",
+   "description": "Play pool with smooth, animated ball physics",
+   "category": "Games",
+   "repo": "gcasa/Billiards",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/Billiards"
+   ]
+  },
+  {
+   "id": "bluetooth",
+   "name": "Bluetooth",
+   "description": "Pair and manage Bluetooth devices",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Bluetooth",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "books",
+   "name": "Books",
+   "description": "Read e-books in a library and page view",
+   "category": "Education",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Books",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "bootenvironments",
+   "name": "BootEnvironments",
+   "description": "Create, choose and remove ZFS boot environments",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "BootEnvironments",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "breakout",
+   "name": "Breakout",
+   "description": "The classic brick-breaking arcade game, reborn as a desktop app",
+   "category": "Games",
+   "repo": "gcasa/Breakout",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "brutus",
+   "name": "Brutus",
+   "description": "Edit text in a plain, no-frills editor",
+   "category": "Productivity",
+   "repo": "neoncortex/Brutus",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "build",
+   "name": "Build",
+   "description": "Build GNUstep apps from source from a catalog of Git repositories",
+   "category": "Developer Tools",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Build",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "calculate",
+   "name": "Calculate",
+   "description": "Calculator app",
+   "category": "Utilities",
+   "repo": "anthonyc-r/Calculate",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "calendar",
+   "name": "Calendar",
+   "description": "Manage your schedule and events with a month and day view",
+   "category": "Productivity",
+   "repo": "AlessandroSangiuliano/Calendar",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "camera",
+   "name": "Camera",
+   "description": "Capture photos and video from a connected camera",
+   "category": "Graphics",
+   "repo": "gsimageapps/Camera",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "cellconnect",
+   "name": "CellConnect",
+   "description": "Frontend for KDE Connect - share files, notifications, and your clipboard with a phone",
+   "category": "Internet",
+   "repo": "eukara/CellConnect.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "chess",
+   "name": "Chess",
+   "description": "The classic Chess application port in GAP, distinct from Grandmaster Chess.",
+   "category": "Games",
+   "repo": "nu-gap/apps-chess",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "clock",
+   "name": "Clock",
+   "description": "Show the time on a simple analog clock",
+   "category": "Utilities",
+   "repo": "anthonyc-r/Clock",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "clock-eric",
+   "name": "Clock (eric)",
+   "appName": "Clock",
+   "description": "Show the time on a simple analog desktop clock",
+   "category": "Utilities",
+   "repo": "erincodepirate/gs_clock",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "colloquy",
+   "name": "Colloquy",
+   "description": "Chat on IRC with styled transcripts, several connections at once and file transfers",
+   "category": "Internet",
+   "repo": "probonopd/colloquy",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "color",
+   "name": "Color",
+   "description": "Choose display color profiles and accent colors",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Color",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "console",
+   "name": "Console",
+   "description": "Read system and application logs",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Console",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "cpucheck",
+   "name": "CpuCheck",
+   "appName": "CPUCheck",
+   "description": "Monitor CPU usage from the dock",
+   "category": "System",
+   "repo": "gcasa/apps-cpucheck",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/apps-cpucheck"
+   ]
+  },
+  {
+   "id": "cynthiune",
+   "name": "Cynthiune",
+   "description": "Music player for MP3, Ogg, FLAC, mod, and WMA",
+   "category": "Music & Video",
+   "repo": "nu-gap/apps-cynthiune",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "dictionary",
+   "name": "Dictionary",
+   "description": "Look up words in a classic-style dictionary browser that shows Wikipedia illustrations",
+   "category": "Education",
+   "repo": "gcasa/Dictionary",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "dingusppc",
+   "name": "DingusPPC",
+   "description": "PowerPC emulator for running classic PowerPC-era operating systems and applications",
+   "category": "System",
+   "repo": "probonopd/DingusPPC.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "directoryservices",
+   "name": "DirectoryServices",
+   "description": "Connect this computer to LDAP and other directory services",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "DirectoryServices",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "diskutility",
+   "name": "DiskUtility",
+   "description": "Inspect, partition, format and mount disks",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "DiskUtility",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "display",
+   "name": "Display",
+   "description": "Set resolution, arrangement and scaling for your displays",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Display",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "dock",
+   "name": "Dock",
+   "description": "Launch and organize applications from a desktop dock",
+   "category": "System",
+   "repo": "gcasa/apps-dock",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "dragtool",
+   "name": "DragTool",
+   "description": "Hold dragged files in a shelf while you move between windows",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "DragTool",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "droidtransfer",
+   "name": "DroidTransfer",
+   "description": "Transfer files between an Android device and the desktop",
+   "category": "Utilities",
+   "repo": "probonopd/DroidTransfer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "easydiff",
+   "name": "EasyDiff",
+   "description": "Diff and merge text files side by side",
+   "category": "Developer Tools",
+   "repo": "gnustep/apps-easydiff",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "energy",
+   "name": "Energy",
+   "description": "Set sleep, battery and power options",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Energy",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "flexisheet",
+   "name": "FlexiSheet",
+   "description": "Spreadsheet application for tables and calculations",
+   "category": "Productivity",
+   "repo": "nu-gap/apps-flexisheet",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "fontbook",
+   "name": "FontBook",
+   "description": "Browse and manage the fonts installed on your system",
+   "category": "Utilities",
+   "repo": "gnustep/apps-fontbook",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "fortunate",
+   "name": "Fortunate",
+   "description": "Graphical front-end to BSD fortune",
+   "category": "Utilities",
+   "repo": "alexmyczko/Fortunate.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "ftp",
+   "name": "FTP",
+   "description": "Client for transferring files over FTP",
+   "category": "Internet",
+   "repo": "nu-gap/apps-ftp",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "games-ported",
+   "name": "Games (ported)",
+   "description": "Ported classic games",
+   "category": "Games",
+   "repo": "gnustep/gap",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "games-user",
+   "name": "Games (user)",
+   "description": "Play a collection of small games",
+   "category": "Games",
+   "repo": "gnustep/gap",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "gem",
+   "name": "Gem",
+   "description": "Edit text in a simple plain text editor",
+   "category": "Productivity",
+   "repo": "anthonyc-r/Gem",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "ggtd",
+   "name": "Ggtd",
+   "description": "Getting-things-done task manager for organizing your to-dos",
+   "category": "Productivity",
+   "repo": "routoure/GGTD",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "globalshortcuts",
+   "name": "GlobalShortcuts",
+   "description": "Assign system-wide keyboard shortcuts",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "GlobalShortcuts",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "gmastermind",
+   "name": "GMastermind",
+   "description": "A desktop version of the Mastermind code-breaking game.",
+   "category": "Games",
+   "repo": "nu-gap/apps-gmastermind",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "gmines",
+   "name": "GMines",
+   "description": "A Minesweeper-style puzzle game.",
+   "category": "Games",
+   "repo": "nu-gap/apps-gmines",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "go",
+   "name": "Go",
+   "appName": "NeXTGo",
+   "description": "A Go board game ported from NeXTSTEP.",
+   "category": "Games",
+   "repo": "nu-gap/apps-nextgo",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "gomoku",
+   "name": "Gomoku",
+   "description": "Extended tic-tac-toe board game",
+   "category": "Games",
+   "repo": "gomoku/Gomoku.app-GNUstep",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/apps-gomoku"
+   ]
+  },
+  {
+   "id": "gorm",
+   "name": "Gorm",
+   "appName": "Gorm",
+   "description": "Interface Builder - design user interfaces visually, wire outlets and actions, and create .gorm archives",
+   "category": "Developer Tools",
+   "repo": "gnustep/apps-gorm",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "graphos",
+   "name": "Graphos",
+   "description": "Vector drawing and illustration app",
+   "category": "Graphics",
+   "repo": "nu-gap/apps-graphos",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "grr",
+   "name": "Grr",
+   "description": "Extendable RSS news reader",
+   "category": "Internet",
+   "repo": "nu-gap/apps-grr",
+   "listedIn": "Build.app",
+   "requires": [
+    "libs-rsskit"
+   ]
+  },
+  {
+   "id": "gschess",
+   "name": "GSChess",
+   "appName": "GrandmasterChess",
+   "description": "Play chess against a built-in alpha-beta AI, with a legal-move engine, move history, board flipping, and undo",
+   "category": "Games",
+   "repo": "gcasa/apps-gschess",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/apps-gschess"
+   ]
+  },
+  {
+   "id": "gshisen",
+   "name": "GShisen",
+   "description": "A Shisen-Sho tile-matching board game.",
+   "category": "Games",
+   "repo": "nu-gap/apps-gshisen",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "gspdf",
+   "name": "GSPdf",
+   "description": "PDF and PostScript document viewer",
+   "category": "Productivity",
+   "repo": "nu-gap/apps-gspdf",
+   "listedIn": "Build.app",
+   "requires": [
+    "libs-pdfkit"
+   ]
+  },
+  {
+   "id": "gworkspace",
+   "name": "GWorkspace",
+   "description": "Manage files and the desktop with a file manager, icons, and services",
+   "category": "System",
+   "repo": "gnustep/apps-gworkspace",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "help",
+   "name": "Help",
+   "description": "Browse help books for installed applications",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Help",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "helpviewer",
+   "name": "HelpViewer",
+   "description": "Help and documentation viewer",
+   "category": "Utilities",
+   "repo": "nu-gap/apps-helpviewer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "innerspace",
+   "name": "InnerSpace",
+   "description": "Desktop background and screensaver system",
+   "category": "System",
+   "repo": "nu-gap/apps-innerspace",
+   "listedIn": "Build.app",
+   "shipsWithNextBSD": true
+  },
+  {
+   "id": "installer",
+   "name": "Installer",
+   "description": "Package installer for installing software",
+   "category": "System",
+   "repo": "nu-gap/apps-installer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "itemflow",
+   "name": "ItemFlow",
+   "description": "Flip through files and folders as large previews",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "ItemFlow",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "jigsaw",
+   "name": "Jigsaw",
+   "description": "A jigsaw puzzle application.",
+   "category": "Games",
+   "repo": "nu-gap/apps-jigsaw",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "jishyo",
+   "name": "Jishyo",
+   "appName": "Jishyo",
+   "description": "Japanese-English dictionary",
+   "category": "Education",
+   "repo": "nu-gap/apps-jishyo",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "keyboard",
+   "name": "Keyboard",
+   "description": "Set key repeat, layouts and input sources",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Keyboard",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "ladder",
+   "name": "Ladder",
+   "description": "A desktop Ladder game from the GAP collection.",
+   "category": "Games",
+   "repo": "nu-gap/apps-ladder",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "lapispuzzle",
+   "name": "LapisPuzzle",
+   "description": "A falling-block puzzle game.",
+   "category": "Games",
+   "repo": "nu-gap/apps-lapispuzzle",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "laternamagica",
+   "name": "LaternaMagica",
+   "description": "Image viewer and slideshow",
+   "category": "Graphics",
+   "repo": "nu-gap/apps-laternamagica",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "ldap-web-explorer",
+   "name": "LDAP Web Explorer",
+   "description": "Browse and search LDAP directory servers through a web LDAP explorer",
+   "category": "System",
+   "repo": "gnustep/apps-gsldapwebexplorer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "loginpanel",
+   "name": "LoginPanel",
+   "description": "Login panel for signing in to the desktop",
+   "category": "System",
+   "repo": "nu-gap/apps-loginpanel",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "loginwindow",
+   "name": "LoginWindow",
+   "description": "Choose how the login window looks and which users it lists",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "LoginWindow",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "macbasic",
+   "name": "MacBasic",
+   "description": "Write and run BASIC programs with block statements, functions, and a drawing window",
+   "category": "Developer Tools",
+   "repo": "gcasa/MacBasic",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/MacBasic"
+   ]
+  },
+  {
+   "id": "mail",
+   "name": "Mail",
+   "description": "Email client for sending and receiving mail",
+   "category": "Internet",
+   "repo": "onflapp/gs-mail",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "mandelbrot",
+   "name": "Mandelbrot",
+   "description": "Explore the Mandelbrot set by zooming into an interactive fractal",
+   "category": "Science",
+   "repo": "gcasa/Mandelbrot",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "manopen",
+   "name": "ManOpen",
+   "description": "Fork of http://www.clindberg.org/projects/ManOpen.html updated for Intel, 64-bit, 10.6.",
+   "category": "Developer Tools",
+   "repo": "nu-gap/manopen",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "markdownreader",
+   "name": "MarkdownReader",
+   "description": "Read Markdown documents as formatted text",
+   "category": "Productivity",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "MarkdownReader",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "markdowntextconverter",
+   "name": "MarkdownTextConverter",
+   "description": "Convert Markdown to rich text and back",
+   "category": "Productivity",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "MarkdownTextConverter",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "markdownviewer",
+   "name": "MarkdownViewer",
+   "appName": "MarkdownViewer",
+   "description": "Read, edit and preview Markdown documents with a rendered view, a syntax-highlighted source editor and a file explorer",
+   "category": "Productivity",
+   "repo": "danjboyd/ObjcMarkdown",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "mediaplayer",
+   "name": "MediaPlayer",
+   "description": "Play media through a simple front end for the mpv player",
+   "category": "Music & Video",
+   "repo": "anthonyc-r/MediaPlayer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "memwatch",
+   "name": "MemWatch",
+   "description": "Monitor RAM and swap usage in the status bar",
+   "category": "System",
+   "repo": "gcasa/apps-memwatch",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/apps-memwatch"
+   ]
+  },
+  {
+   "id": "menu",
+   "name": "Menu",
+   "description": "Global menu bar that shows the active application's menus",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Menu",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "menuprefpane",
+   "name": "MenuPrefPane",
+   "description": "Choose which menu extras appear in the menu bar",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "MenuPrefPane",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "midimon",
+   "name": "MidiMon",
+   "description": "Monitor MIDI system events",
+   "category": "Music & Video",
+   "repo": "mclarenlabs/libs-mclaren-alpha",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "miditalk",
+   "name": "MidiTalk",
+   "description": "Scriptable MIDI/audio app using StepTalk and McLaren Synth Kit",
+   "category": "Music & Video",
+   "repo": "mclarenlabs/libs-mclaren-alpha",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "modplugplay",
+   "name": "ModPlugPlay",
+   "description": "Player for tracker modules using libmodplug/libopenmpt",
+   "category": "Music & Video",
+   "repo": "alexmyczko/ModPlugPlay.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "molecule",
+   "name": "Molecule",
+   "description": "View molecules as ball-and-stick models with rotation, zoom, atom labels, and automatic animation",
+   "category": "Science",
+   "repo": "gcasa/Molecule",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/Molecule"
+   ]
+  },
+  {
+   "id": "mouse",
+   "name": "Mouse",
+   "description": "Set pointer speed, scrolling direction and double-click timing",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Mouse",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "mpdcon",
+   "name": "MPDCon",
+   "description": "Client for the Music Player Daemon (MPD)",
+   "category": "Music & Video",
+   "repo": "nu-gap/apps-mpdcon",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "mplayer",
+   "name": "MPlayer",
+   "description": "Front end for the MPlayer media player",
+   "category": "Music & Video",
+   "repo": "eukara/MPlayer.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "mskfilterdemo",
+   "name": "MskFilterDemo",
+   "description": "Filter demonstration with real-time slider control",
+   "category": "Music & Video",
+   "repo": "mclarenlabs/libs-mclaren-alpha",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "mskorgandemo",
+   "name": "MskOrganDemo",
+   "description": "Drawbar organ with reverb and filter",
+   "category": "Music & Video",
+   "repo": "mclarenlabs/libs-mclaren-alpha",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "netcheck",
+   "name": "NetCheck",
+   "description": "Monitor network interface activity with per-interface RX and TX bars",
+   "category": "System",
+   "repo": "gcasa/apps-netcheck",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/apps-netcheck"
+   ]
+  },
+  {
+   "id": "network",
+   "name": "Network",
+   "description": "Configure Ethernet, Wi-Fi and network locations",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Network",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane",
+   "shipsWithNextBSD": true
+  },
+  {
+   "id": "networkbrowser",
+   "name": "NetworkBrowser",
+   "description": "Find file shares and services on your local network",
+   "category": "Internet",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "NetworkBrowser",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "nfsconfig",
+   "name": "NFSConfig",
+   "description": "Tool for configuring NFS file sharing",
+   "category": "System",
+   "repo": "nu-gap/apps-nfsconfig",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "nfsmanager",
+   "name": "NFSManager",
+   "description": "Manage NFS network file shares and mounts",
+   "category": "System",
+   "repo": "gnustep/apps-nfsmanager",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "notepad-anthonyc-r",
+   "name": "Notepad (anthonyc-r)",
+   "appName": "Notepad",
+   "description": "Jot quick notes in a simple notepad",
+   "category": "Productivity",
+   "repo": "anthonyc-r/Notepad",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "notepad-thomasf",
+   "name": "Notepad (thomasf)",
+   "appName": "Notepad",
+   "description": "Tabbed notepad for keeping several notes at once",
+   "category": "Productivity",
+   "repo": "thomasfuhringer/notepad.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "notes",
+   "name": "Notes",
+   "description": "Keep quick notes in a simple list",
+   "category": "Productivity",
+   "repo": "nu-gap/apps-notes",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "nx-void",
+   "name": "NX Void",
+   "appName": "NX_Void",
+   "description": "Play the classic NX_Void arcade game",
+   "category": "Games",
+   "repo": "gcasa/NX_Void",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "nxvncserver",
+   "name": "NXVNCServer",
+   "description": "Share the screen over VNC from a NeXTSTEP or OPENSTEP system",
+   "category": "Internet",
+   "repo": "gcasa/NXVNCServer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "packagemanager",
+   "name": "PackageManager",
+   "description": "Search, install and remove system packages",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "PackageManager",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "pacman",
+   "name": "PacMan",
+   "description": "Navigate a maze, collect dots, and avoid ghosts in the classic arcade game",
+   "category": "Games",
+   "repo": "gcasa/PacMan",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "phone",
+   "name": "Phone",
+   "description": "Make and answer calls through a paired phone",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Phone",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "pictureframe",
+   "name": "PictureFrame",
+   "appName": "PictureFrame",
+   "description": "Digital picture frame slideshow",
+   "category": "Graphics",
+   "repo": "nu-gap/apps-pictureframe",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "player",
+   "name": "Player",
+   "description": "Play music and video files",
+   "category": "Music & Video",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Player",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "ppc",
+   "name": "PPC",
+   "description": "Presentation app for building slideshows",
+   "category": "Productivity",
+   "repo": "nu-gap/apps-ppc",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "printers",
+   "name": "Printers",
+   "description": "Add printers and manage print queues",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Printers",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane",
+   "shipsWithNextBSD": true
+  },
+  {
+   "id": "process-monitor",
+   "name": "Process Monitor",
+   "description": "Watch running processes and their CPU and memory use",
+   "category": "System",
+   "repo": "nu-gap/apps-processmonitor",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "processes",
+   "name": "Processes",
+   "description": "See running processes and quit the ones that misbehave",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Processes",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "profiler",
+   "name": "Profiler",
+   "description": "Sample running programs to find where they spend time",
+   "category": "Developer Tools",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Profiler",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "projectcenter",
+   "name": "ProjectCenter",
+   "description": "Integrated development environment - manage code, build apps and frameworks, integrated with Gorm",
+   "category": "Developer Tools",
+   "repo": "gnustep/apps-projectcenter",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "remotedesk",
+   "name": "RemoteDesk",
+   "description": "Remote desktop and VNC client",
+   "category": "Internet",
+   "repo": "nu-gap/apps-remotedesk",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "remotedesktop",
+   "name": "RemoteDesktop",
+   "description": "Connect to other computers' screens over VNC and RDP",
+   "category": "Internet",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "RemoteDesktop",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "resound",
+   "name": "Resound",
+   "description": "Resound 3.0 historical Rhapsody sound editor source, preserved for GNUstep porting",
+   "category": "Music & Video",
+   "repo": "nu-gap/apps-resound",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "scoremaker",
+   "name": "ScoreMaker",
+   "description": "Write, edit, and publish musical scores: import MIDI and MusicXML, edit MusicKit notation, play back, and export PDF or MusicXML",
+   "category": "Music & Video",
+   "repo": "gcasa/apps-scoremaker",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "scoreplayer",
+   "name": "ScorePlayer",
+   "description": "Turn a small text score format into a Standard MIDI file and play it on the host system",
+   "category": "Music & Video",
+   "repo": "gcasa/ScorePlayer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "screenshot",
+   "name": "Screenshot",
+   "description": "Capture the screen, a window or a selection",
+   "category": "Graphics",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Screenshot",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "sharing",
+   "name": "Sharing",
+   "description": "Turn file, screen and remote login sharing on or off",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Sharing",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "simpleagenda",
+   "name": "SimpleAgenda",
+   "description": "Easy-to-use agenda and calendar",
+   "category": "Productivity",
+   "repo": "poroussel/simpleagenda",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "smallnote",
+   "name": "SmallNote",
+   "description": "Jot down notes in a small note-taking app",
+   "category": "Productivity",
+   "repo": "hsnamr/SmallNote",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "sound",
+   "name": "Sound",
+   "description": "Choose output and input devices and set volume",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Sound",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane",
+   "shipsWithNextBSD": true
+  },
+  {
+   "id": "spim",
+   "name": "SPIM",
+   "appName": "NeXTspim",
+   "description": "An AppKit front end for the SPIM MIPS simulator, with debugging controls.",
+   "category": "Education",
+   "repo": "nu-gap/apps-nextspim",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "st-tos",
+   "name": "ST TOS",
+   "appName": "STSOS",
+   "description": "Pilot a vector-graphics homage to Star Trek: Strategic Operations Simulator, with runtime-generated sound",
+   "category": "Games",
+   "repo": "gcasa/ST_TOS",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "startupdisk",
+   "name": "StartupDisk",
+   "description": "Pick the disk this computer starts up from",
+   "category": "System",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "StartupDisk",
+   "listedIn": "gershwin-components",
+   "kind": "preference pane"
+  },
+  {
+   "id": "stepbill",
+   "name": "StepBill",
+   "description": "Stop Bill from taking over your computers in this port of the classic xbill game",
+   "category": "Games",
+   "repo": "alexmyczko/StepBill.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "stepdown",
+   "name": "StepDown",
+   "description": "Edit Markdown in a lightweight editor",
+   "category": "Productivity",
+   "repo": "gcasa/stepdown",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/stepdown"
+   ]
+  },
+  {
+   "id": "stepsync",
+   "name": "StepSync",
+   "description": "File synchronization tool",
+   "category": "Utilities",
+   "repo": "nu-gap/apps-stepsync",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "stepulator",
+   "name": "Stepulator",
+   "description": "Calculator for everyday math",
+   "category": "Utilities",
+   "repo": "nu-gap/apps-stepulator",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "stickies",
+   "name": "Stickies",
+   "description": "Keep short notes on colored sticky notes on the desktop",
+   "category": "Productivity",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Stickies",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "sudedito",
+   "name": "Sudedito",
+   "description": "Editor for system sudoers files",
+   "category": "System",
+   "repo": "richRemer/Sudedito",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "sudoku",
+   "name": "Sudoku",
+   "description": "A desktop Sudoku puzzle game.",
+   "category": "Games",
+   "repo": "nu-gap/apps-sudoku",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "surfboard",
+   "name": "SurfBoard",
+   "description": "Browse imageboards from the desktop",
+   "category": "Internet",
+   "repo": "anthonyc-r/SurfBoard",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "synth80",
+   "name": "Synth80",
+   "description": "Two-oscillator and sampling synth with patch save/restore",
+   "category": "Music & Video",
+   "repo": "mclarenlabs/libs-mclaren-alpha",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "systememulator",
+   "name": "SystemEmulator",
+   "description": "Run virtual machines through a desktop frontend for the QEMU emulator",
+   "category": "System",
+   "repo": "probonopd/SystemEmulator",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "systempreferences",
+   "name": "SystemPreferences",
+   "description": "Adjust system and appearance settings through a preferences application",
+   "category": "System",
+   "repo": "gnustep/apps-systempreferences",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "systemprofiler",
+   "name": "SystemProfiler",
+   "description": "List the hardware and software in this computer",
+   "category": "Utilities",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "SystemProfiler",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "talksoup",
+   "name": "TalkSoup",
+   "appName": "TalkSoup",
+   "description": "IRC chat client",
+   "category": "Internet",
+   "repo": "nu-gap/apps-talksoup",
+   "listedIn": "Build.app",
+   "requires": [
+    "libs-netclasses"
+   ]
+  },
+  {
+   "id": "terminal",
+   "name": "Terminal",
+   "description": "Run shells and command-line tools in a window",
+   "category": "Utilities",
+   "repo": "nextbsd/apps-terminal",
+   "listedIn": "NextBSD",
+   "shipsWithNextBSD": true
+  },
+  {
+   "id": "terminal-anthonyc-r",
+   "name": "Terminal (anthonyc-r)",
+   "appName": "Terminal",
+   "description": "Run command-line tools and shells in a window",
+   "category": "Utilities",
+   "repo": "anthonyc-r/Terminal",
+   "listedIn": "Build.app",
+   "alternatives": [
+    "nu-gap/apps-terminal"
+   ]
+  },
+  {
+   "id": "terminal-gap",
+   "name": "Terminal (gap)",
+   "appName": "Terminal",
+   "description": "Run command-line tools and shells in a window",
+   "category": "Utilities",
+   "repo": "gnustep/gap",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "terminal-onflapp",
+   "name": "Terminal (onflapp)",
+   "appName": "Terminal",
+   "description": "Run command-line tools and shells in a window",
+   "category": "Utilities",
+   "repo": "onflapp/gs-terminal",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "textedit",
+   "name": "TextEdit",
+   "description": "Editor for plain and rich text documents",
+   "category": "Productivity",
+   "repo": "onflapp/gs-textedit",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "the-unarchiver",
+   "name": "The Unarchiver",
+   "appName": "TheUnarchiver",
+   "description": "Archive extractor for 7-Zip, RAR, StuffIt, tar, zip, and more",
+   "category": "Utilities",
+   "repo": "probonopd/theunarchiver-gnustep",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "thelounge",
+   "name": "TheLounge",
+   "appName": "Messages",
+   "description": "Native desktop client for The Lounge IRC bouncer - no embedded browser",
+   "category": "Internet",
+   "repo": "probonopd/TheLounge",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "thematic",
+   "name": "Thematic",
+   "description": "Create image-only desktop themes",
+   "category": "Graphics",
+   "repo": "gnustep/apps-thematic",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "themepreview",
+   "name": "ThemePreview",
+   "description": "Theme preview window with widgets",
+   "category": "Developer Tools",
+   "repo": "gnustep/apps-themepreview",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "timemon",
+   "name": "TimeMon",
+   "description": "A graphical CPU load monitor.",
+   "category": "System",
+   "repo": "nu-gap/apps-timemon",
+   "listedIn": "nu-gap",
+   "requires": [
+    "libs-timeui"
+   ]
+  },
+  {
+   "id": "topbar",
+   "name": "TopBar",
+   "description": "Keep a persistent bar pinned at the top of the screen",
+   "category": "System",
+   "repo": "gnustep/apps-topbar",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "util",
+   "name": "Util",
+   "description": "Ported utility applications",
+   "category": "Utilities",
+   "repo": "gnustep/gap",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "vespucci",
+   "name": "Vespucci",
+   "description": "Web browser",
+   "category": "Internet",
+   "repo": "nu-gap/apps-vespucci",
+   "listedIn": "Build.app",
+   "requires": [
+    "libs-berkelium"
+   ]
+  },
+  {
+   "id": "vic20",
+   "name": "VIC20",
+   "description": "Emulate a Commodore VIC-20 with a 6502 CPU, video chip, and BASIC interpreter",
+   "category": "Games",
+   "repo": "gcasa/VIC20",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "videoplayer",
+   "name": "VideoPlayer",
+   "description": "Play video files in a multimedia player",
+   "category": "Music & Video",
+   "repo": "gnustep/apps-videoplayer",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "volumecontrol",
+   "name": "VolumeControl",
+   "description": "Control the system output volume",
+   "category": "Utilities",
+   "repo": "alexmyczko/VolumeControl.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "weather",
+   "name": "Weather",
+   "description": "Check current conditions and forecasts",
+   "category": "Utilities",
+   "repo": "anthonyc-r/Weather",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "weather-paulo",
+   "name": "Weather (paulo)",
+   "appName": "Weather",
+   "description": "Shows weather forecasts and current conditions",
+   "category": "Utilities",
+   "repo": "paulodelgado/Weather.app",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "webbrowser",
+   "name": "WebBrowser",
+   "description": "Web browser for surfing the internet",
+   "category": "Internet",
+   "repo": "onflapp/gs-webbrowser",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "whisper",
+   "name": "Whisper",
+   "description": "Transcribe speech to text on this computer",
+   "category": "Productivity",
+   "repo": "gershwin-desktop/gershwin-components",
+   "path": "Whisper",
+   "listedIn": "gershwin-components"
+  },
+  {
+   "id": "workspace",
+   "name": "Workspace",
+   "description": "Browse files and folders and manage the desktop",
+   "category": "System",
+   "repo": "nu-gap/Finder",
+   "listedIn": "nu-gap",
+   "shipsWithNextBSD": true
+  },
+  {
+   "id": "workspaces",
+   "name": "Workspaces",
+   "description": "Switch between virtual desktops",
+   "category": "System",
+   "repo": "nu-gap/apps-workspaces",
+   "listedIn": "nu-gap"
+  },
+  {
+   "id": "world-clock",
+   "name": "World Clock",
+   "appName": "Clock",
+   "description": "Track time across cities, with alarms, a stopwatch, and a timer",
+   "category": "Utilities",
+   "repo": "mrtonik/Clock",
+   "listedIn": "Build.app"
+  },
+  {
+   "id": "ycode",
+   "name": "Ycode",
+   "description": "Develop GNUstep apps in an IDE: projects from templates, an editor with code browsing, building, debugging and Git",
+   "category": "Developer Tools",
+   "repo": "nextbsd/libs-xcode",
+   "path": "Applications/ycode",
+   "listedIn": "NextBSD",
+   "requires": [
+    "libs-xcode"
+   ]
+  },
+  {
+   "id": "zipper",
+   "name": "Zipper",
+   "description": "Archive manager for creating and extracting archives",
+   "category": "Utilities",
+   "repo": "nu-gap/apps-zipper",
+   "listedIn": "Build.app"
+  }
+ ],
+ "libraries": [
+  {
+   "id": "libs-pdfkit",
+   "name": "PDFKit",
+   "description": "A PDF display framework based on xpdf.",
+   "repo": "nu-gap/libs-pdfkit"
+  },
+  {
+   "id": "libs-rsskit",
+   "name": "RSSKit",
+   "description": "RSS and Atom feed parsing framework used by Grr.",
+   "repo": "nu-gap/libs-rsskit"
+  },
+  {
+   "id": "libs-netclasses",
+   "name": "netclasses",
+   "description": "Networking classes used by TalkSoup.",
+   "repo": "nu-gap/libs-netclasses"
+  },
+  {
+   "id": "libs-timeui",
+   "name": "TimeUI",
+   "description": "Time and clock user-interface controls.",
+   "repo": "nu-gap/libs-timeui"
+  },
+  {
+   "id": "libs-oresme",
+   "name": "Oresme",
+   "description": "A graph-drawing framework.",
+   "repo": "nu-gap/libs-oresme"
+  },
+  {
+   "id": "libs-berkelium",
+   "name": "Berkelium",
+   "description": "Experimental browser integration framework from GAP.",
+   "repo": "nu-gap/libs-berkelium"
+  },
+  {
+   "id": "libs-xcode",
+   "name": "XCode",
+   "description": "Reads and builds Xcode projects; the library Ycode is built on. NextBSD's fork, with NextBSD fixes.",
+   "repo": "nextbsd/libs-xcode"
+  }
+ ]
+}

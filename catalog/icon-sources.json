@@ -899,6 +899,12 @@
   "path": "Clock.tiff",
   "how": "GNUmakefile"
  },
+ "ycode": {
+  "status": "ok",
+  "repo": "nextbsd/libs-xcode",
+  "path": "Applications/ycode/Resources/Ycode.tiff",
+  "how": "GNUmakefile"
+ },
  "zipper": {
   "status": "ok",
   "repo": "nu-gap/apps-zipper",
