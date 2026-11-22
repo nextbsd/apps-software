@@ -1,0 +1,945 @@
+{
+ "buildCatalog": [
+  {
+   "name": "AnClock",
+   "description": "Analog desktop clock showing the current time",
+   "source": "https://github.com/erincodepirate/gs_analog_clock"
+  },
+  {
+   "name": "Brutus",
+   "description": "Edit text in a plain, no-frills editor",
+   "source": "https://github.com/neoncortex/Brutus"
+  },
+  {
+   "name": "Calculate",
+   "description": "Calculator app",
+   "source": "https://github.com/anthonyc-r/Calculate"
+  },
+  {
+   "name": "Calendar",
+   "description": "Manage your schedule and events with a month and day view",
+   "source": "https://github.com/AlessandroSangiuliano/Calendar"
+  },
+  {
+   "name": "Camera",
+   "description": "Capture photos and video from a connected camera",
+   "source": "https://github.com/gsimageapps/Camera"
+  },
+  {
+   "name": "CellConnect",
+   "description": "Frontend for KDE Connect - share files, notifications, and your clipboard with a phone",
+   "source": "https://github.com/eukara/CellConnect.app"
+  },
+  {
+   "name": "Clock",
+   "description": "Show the time on a simple analog clock",
+   "source": "https://github.com/anthonyc-r/Clock"
+  },
+  {
+   "name": "Clock (eric)",
+   "description": "Show the time on a simple analog desktop clock",
+   "source": "https://github.com/erincodepirate/gs_clock"
+  },
+  {
+   "name": "Colloquy",
+   "description": "Chat on IRC with styled transcripts, several connections at once and file transfers",
+   "source": "https://github.com/probonopd/colloquy"
+  },
+  {
+   "name": "EasyDiff",
+   "description": "Diff and merge text files side by side",
+   "source": "https://github.com/gnustep/apps-easydiff"
+  },
+  {
+   "name": "FontBook",
+   "description": "Browse and manage the fonts installed on your system",
+   "source": "https://github.com/gnustep/apps-fontbook"
+  },
+  {
+   "name": "Fortunate",
+   "description": "Graphical front-end to BSD fortune",
+   "source": "https://github.com/alexmyczko/Fortunate.app"
+  },
+  {
+   "name": "Gem",
+   "description": "Edit text in a simple plain text editor",
+   "source": "https://github.com/anthonyc-r/Gem"
+  },
+  {
+   "name": "Ggtd",
+   "description": "Getting-things-done task manager for organizing your to-dos",
+   "source": "https://github.com/routoure/GGTD"
+  },
+  {
+   "name": "Gomoku",
+   "description": "Extended tic-tac-toe board game",
+   "source": "https://github.com/gomoku/Gomoku.app-GNUstep"
+  },
+  {
+   "name": "Mail",
+   "description": "Email client for sending and receiving mail",
+   "source": "https://github.com/onflapp/gs-mail"
+  },
+  {
+   "name": "MediaPlayer",
+   "description": "Play media through a simple front end for the mpv player",
+   "source": "https://github.com/anthonyc-r/MediaPlayer"
+  },
+  {
+   "name": "ModPlugPlay",
+   "description": "Player for tracker modules using libmodplug/libopenmpt",
+   "source": "https://github.com/alexmyczko/ModPlugPlay.app"
+  },
+  {
+   "name": "MPlayer",
+   "description": "Front end for the MPlayer media player",
+   "source": "https://github.com/eukara/MPlayer.app"
+  },
+  {
+   "name": "Notepad (anthonyc-r)",
+   "description": "Jot quick notes in a simple notepad",
+   "source": "https://github.com/anthonyc-r/Notepad"
+  },
+  {
+   "name": "Notepad (thomasf)",
+   "description": "Tabbed notepad for keeping several notes at once",
+   "source": "https://github.com/thomasfuhringer/notepad.app"
+  },
+  {
+   "name": "SmallNote",
+   "description": "Jot down notes in a small note-taking app",
+   "source": "https://github.com/hsnamr/SmallNote"
+  },
+  {
+   "name": "StepBill",
+   "description": "Stop Bill from taking over your computers in this port of the classic xbill game",
+   "source": "https://github.com/alexmyczko/StepBill.app"
+  },
+  {
+   "name": "Sudedito",
+   "description": "Editor for system sudoers files",
+   "source": "https://github.com/richRemer/Sudedito"
+  },
+  {
+   "name": "SurfBoard",
+   "description": "Browse imageboards from the desktop",
+   "source": "https://github.com/anthonyc-r/SurfBoard"
+  },
+  {
+   "name": "SimpleAgenda",
+   "description": "Easy-to-use agenda and calendar",
+   "source": "https://github.com/poroussel/simpleagenda"
+  },
+  {
+   "name": "SystemEmulator",
+   "description": "Run virtual machines through a desktop frontend for the QEMU emulator",
+   "source": "https://github.com/probonopd/SystemEmulator"
+  },
+  {
+   "name": "Terminal",
+   "description": "Run command-line tools and shells in a window",
+   "source": "https://github.com/anthonyc-r/Terminal"
+  },
+  {
+   "name": "Terminal (onflapp)",
+   "description": "Run command-line tools and shells in a window",
+   "source": "https://github.com/onflapp/gs-terminal"
+  },
+  {
+   "name": "TextEdit",
+   "description": "Editor for plain and rich text documents",
+   "source": "https://github.com/onflapp/gs-textedit"
+  },
+  {
+   "name": "The Unarchiver",
+   "description": "Archive extractor for 7-Zip, RAR, StuffIt, tar, zip, and more",
+   "source": "https://github.com/probonopd/theunarchiver-gnustep"
+  },
+  {
+   "name": "TheLounge",
+   "description": "Native desktop client for The Lounge IRC bouncer - no embedded browser",
+   "source": "https://github.com/probonopd/TheLounge"
+  },
+  {
+   "name": "Thematic",
+   "description": "Create image-only desktop themes",
+   "source": "https://github.com/gnustep/apps-thematic"
+  },
+  {
+   "name": "ThemePreview",
+   "description": "Theme preview window with widgets",
+   "source": "https://github.com/gnustep/apps-themepreview"
+  },
+  {
+   "name": "TopBar",
+   "description": "Keep a persistent bar pinned at the top of the screen",
+   "source": "https://github.com/gnustep/apps-topbar"
+  },
+  {
+   "name": "Dock",
+   "description": "Launch and organize applications from a desktop dock",
+   "source": "https://github.com/gcasa/apps-dock"
+  },
+  {
+   "name": "LDAP Web Explorer",
+   "description": "Browse and search LDAP directory servers through a web LDAP explorer",
+   "source": "https://github.com/gnustep/apps-gsldapwebexplorer"
+  },
+  {
+   "name": "GWorkspace",
+   "description": "Manage files and the desktop with a file manager, icons, and services",
+   "source": "https://github.com/gnustep/apps-gworkspace"
+  },
+  {
+   "name": "NXVNCServer",
+   "description": "Share the screen over VNC from a NeXTSTEP or OPENSTEP system",
+   "source": "https://github.com/gcasa/NXVNCServer"
+  },
+  {
+   "name": "NFSManager",
+   "description": "Manage NFS network file shares and mounts",
+   "source": "https://github.com/gnustep/apps-nfsmanager"
+  },
+  {
+   "name": "SystemPreferences",
+   "description": "Adjust system and appearance settings through a preferences application",
+   "source": "https://github.com/gnustep/apps-systempreferences"
+  },
+  {
+   "name": "VideoPlayer",
+   "description": "Play video files in a multimedia player",
+   "source": "https://github.com/gnustep/apps-videoplayer"
+  },
+  {
+   "name": "VolumeControl",
+   "description": "Control the system output volume",
+   "source": "https://github.com/alexmyczko/VolumeControl.app"
+  },
+  {
+   "name": "Weather",
+   "description": "Check current conditions and forecasts",
+   "source": "https://github.com/anthonyc-r/Weather"
+  },
+  {
+   "name": "Weather (paulo)",
+   "description": "Shows weather forecasts and current conditions",
+   "source": "https://github.com/paulodelgado/Weather.app"
+  },
+  {
+   "name": "WebBrowser",
+   "description": "Web browser for surfing the internet",
+   "source": "https://github.com/onflapp/gs-webbrowser"
+  },
+  {
+   "name": "World Clock",
+   "description": "Track time across cities, with alarms, a stopwatch, and a timer",
+   "source": "https://github.com/mrtonik/Clock"
+  },
+  {
+   "name": "Gorm",
+   "description": "Interface Builder - design user interfaces visually, wire outlets and actions, and create .gorm archives",
+   "source": "https://github.com/gnustep/apps-gorm"
+  },
+  {
+   "name": "ProjectCenter",
+   "description": "Integrated development environment - manage code, build apps and frameworks, integrated with Gorm",
+   "source": "https://github.com/gnustep/apps-projectcenter"
+  },
+  {
+   "name": "Grr",
+   "description": "Extendable RSS news reader",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "AClock",
+   "description": "Analog desktop clock",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Cynthiune",
+   "description": "Music player for MP3, Ogg, FLAC, mod, and WMA",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "FTP",
+   "description": "Client for transferring files over FTP",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "FlexiSheet",
+   "description": "Spreadsheet application for tables and calculations",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "GSPdf",
+   "description": "PDF and PostScript document viewer",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Games (user)",
+   "description": "Play a collection of small games",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Graphos",
+   "description": "Vector drawing and illustration app",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "InnerSpace",
+   "description": "Desktop background and screensaver system",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Jishyo",
+   "description": "Japanese-English dictionary",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "LaternaMagica",
+   "description": "Image viewer and slideshow",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "MPDCon",
+   "description": "Client for the Music Player Daemon (MPD)",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "PPC",
+   "description": "Presentation app for building slideshows",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "PictureFrame",
+   "description": "Digital picture frame slideshow",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "RemoteDesk",
+   "description": "Remote desktop and VNC client",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Stepulator",
+   "description": "Calculator for everyday math",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "TalkSoup",
+   "description": "IRC chat client",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Vespucci",
+   "description": "Web browser",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Addresses",
+   "description": "Address and contacts manager",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "AudioMixer",
+   "description": "Audio mixer control app",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "HelpViewer",
+   "description": "Help and documentation viewer",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Installer",
+   "description": "Package installer for installing software",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "NFSConfig",
+   "description": "Tool for configuring NFS file sharing",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "StepSync",
+   "description": "File synchronization tool",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Terminal (gap)",
+   "description": "Run command-line tools and shells in a window",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Zipper",
+   "description": "Archive manager for creating and extracting archives",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "batmon",
+   "description": "Battery monitor for laptops",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "loginpanel",
+   "description": "Login panel for signing in to the desktop",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Games (ported)",
+   "description": "Ported classic games",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "Util",
+   "description": "Ported utility applications",
+   "source": "https://github.com/gnustep/gap"
+  },
+  {
+   "name": "MidiTalk",
+   "description": "Scriptable MIDI/audio app using StepTalk and McLaren Synth Kit",
+   "source": "https://github.com/mclarenlabs/libs-mclaren-alpha"
+  },
+  {
+   "name": "Synth80",
+   "description": "Two-oscillator and sampling synth with patch save/restore",
+   "source": "https://github.com/mclarenlabs/libs-mclaren-alpha"
+  },
+  {
+   "name": "MidiMon",
+   "description": "Monitor MIDI system events",
+   "source": "https://github.com/mclarenlabs/libs-mclaren-alpha"
+  },
+  {
+   "name": "MskFilterDemo",
+   "description": "Filter demonstration with real-time slider control",
+   "source": "https://github.com/mclarenlabs/libs-mclaren-alpha"
+  },
+  {
+   "name": "MskOrganDemo",
+   "description": "Drawbar organ with reverb and filter",
+   "source": "https://github.com/mclarenlabs/libs-mclaren-alpha"
+  },
+  {
+   "name": "DroidTransfer",
+   "description": "Transfer files between an Android device and the desktop",
+   "source": "https://github.com/probonopd/DroidTransfer"
+  },
+  {
+   "name": "DingusPPC",
+   "description": "PowerPC emulator for running classic PowerPC-era operating systems and applications",
+   "source": "https://github.com/probonopd/DingusPPC.app"
+  },
+  {
+   "name": "GSChess",
+   "description": "Play chess against a built-in alpha-beta AI, with a legal-move engine, move history, board flipping, and undo",
+   "source": "https://github.com/gcasa/apps-gschess"
+  },
+  {
+   "name": "ScoreMaker",
+   "description": "Write, edit, and publish musical scores: import MIDI and MusicXML, edit MusicKit notation, play back, and export PDF or MusicXML",
+   "source": "https://github.com/gcasa/apps-scoremaker"
+  },
+  {
+   "name": "Breakout",
+   "description": "The classic brick-breaking arcade game, reborn as a desktop app",
+   "source": "https://github.com/gcasa/Breakout"
+  },
+  {
+   "name": "Billiards",
+   "description": "Play pool with smooth, animated ball physics",
+   "source": "https://github.com/gcasa/Billiards"
+  },
+  {
+   "name": "VIC20",
+   "description": "Emulate a Commodore VIC-20 with a 6502 CPU, video chip, and BASIC interpreter",
+   "source": "https://github.com/gcasa/VIC20"
+  },
+  {
+   "name": "MacBasic",
+   "description": "Write and run BASIC programs with block statements, functions, and a drawing window",
+   "source": "https://github.com/gcasa/MacBasic"
+  },
+  {
+   "name": "NX Void",
+   "description": "Play the classic NX_Void arcade game",
+   "source": "https://github.com/gcasa/NX_Void"
+  },
+  {
+   "name": "Mandelbrot",
+   "description": "Explore the Mandelbrot set by zooming into an interactive fractal",
+   "source": "https://github.com/gcasa/Mandelbrot"
+  },
+  {
+   "name": "PacMan",
+   "description": "Navigate a maze, collect dots, and avoid ghosts in the classic arcade game",
+   "source": "https://github.com/gcasa/PacMan"
+  },
+  {
+   "name": "NetCheck",
+   "description": "Monitor network interface activity with per-interface RX and TX bars",
+   "source": "https://github.com/gcasa/apps-netcheck"
+  },
+  {
+   "name": "CpuCheck",
+   "description": "Monitor CPU usage from the dock",
+   "source": "https://github.com/gcasa/apps-cpucheck"
+  },
+  {
+   "name": "MemWatch",
+   "description": "Monitor RAM and swap usage in the status bar",
+   "source": "https://github.com/gcasa/apps-memwatch"
+  },
+  {
+   "name": "Dictionary",
+   "description": "Look up words in a classic-style dictionary browser that shows Wikipedia illustrations",
+   "source": "https://github.com/gcasa/Dictionary"
+  },
+  {
+   "name": "StepDown",
+   "description": "Edit Markdown in a lightweight editor",
+   "source": "https://github.com/gcasa/stepdown"
+  },
+  {
+   "name": "ST TOS",
+   "description": "Pilot a vector-graphics homage to Star Trek: Strategic Operations Simulator, with runtime-generated sound",
+   "source": "https://github.com/gcasa/ST_TOS"
+  },
+  {
+   "name": "ScorePlayer",
+   "description": "Turn a small text score format into a Standard MIDI file and play it on the host system",
+   "source": "https://github.com/gcasa/ScorePlayer"
+  },
+  {
+   "name": "Molecule",
+   "description": "View molecules as ball-and-stick models with rotation, zoom, atom labels, and automatic animation",
+   "source": "https://github.com/gcasa/Molecule"
+  },
+  {
+   "name": "MarkdownViewer",
+   "description": "Read, edit and preview Markdown documents with a rendered view, a syntax-highlighted source editor and a file explorer",
+   "source": "https://github.com/danjboyd/ObjcMarkdown"
+  }
+ ],
+ "gershwinComponents": [
+  "AndroidScreen",
+  "Assistants",
+  "Bluetooth",
+  "Books",
+  "BootEnvironments",
+  "Build",
+  "Color",
+  "Console",
+  "DirectoryServices",
+  "DiskUtility",
+  "Display",
+  "DragTool",
+  "Energy",
+  "GlobalShortcuts",
+  "Help",
+  "ItemFlow",
+  "Keyboard",
+  "LoginWindow",
+  "MarkdownReader",
+  "MarkdownTextConverter",
+  "Menu",
+  "MenuPrefPane",
+  "Mouse",
+  "Network",
+  "NetworkBrowser",
+  "PackageManager",
+  "Phone",
+  "Player",
+  "Printers",
+  "Processes",
+  "Profiler",
+  "RemoteDesktop",
+  "Screenshot",
+  "Sharing",
+  "Sound",
+  "StartupDisk",
+  "Stickies",
+  "SystemProfiler",
+  "Whisper",
+  "make_appimage",
+  "make_gorm",
+  "make_services",
+  "minibus",
+  "plistupdate",
+  "ports"
+ ],
+ "nuGap": [
+  {
+   "name": "manopen",
+   "description": "Fork of http://www.clindberg.org/projects/ManOpen.html updated for Intel, 64-bit, 10.6.",
+   "source": "https://github.com/nu-gap/manopen",
+   "archived": false
+  },
+  {
+   "name": "Billiards",
+   "description": "A simple billiards game as a demostration of Cocoa/GNUstep",
+   "source": "https://github.com/nu-gap/Billiards",
+   "archived": false
+  },
+  {
+   "name": "Molecule",
+   "description": "Molecule demo similar to the one on OPENSTEP buildable on macOS and GNUstep",
+   "source": "https://github.com/nu-gap/Molecule",
+   "archived": false
+  },
+  {
+   "name": "stepdown",
+   "description": "A simple markdown application for GNUstep and macOS.",
+   "source": "https://github.com/nu-gap/stepdown",
+   "archived": false
+  },
+  {
+   "name": "MacBasic",
+   "description": "",
+   "source": "https://github.com/nu-gap/MacBasic",
+   "archived": false
+  },
+  {
+   "name": "apps-gschess",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-gschess",
+   "archived": false
+  },
+  {
+   "name": "apps-memwatch",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-memwatch",
+   "archived": false
+  },
+  {
+   "name": "apps-cpucheck",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-cpucheck",
+   "archived": false
+  },
+  {
+   "name": "apps-workspaces",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-workspaces",
+   "archived": false
+  },
+  {
+   "name": "apps-netcheck",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-netcheck",
+   "archived": false
+  },
+  {
+   "name": "apps-prompt",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-prompt",
+   "archived": false
+  },
+  {
+   "name": "Finder",
+   "description": "",
+   "source": "https://github.com/nu-gap/Finder",
+   "archived": false
+  },
+  {
+   "name": "apps-terminal",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-terminal",
+   "archived": false
+  },
+  {
+   "name": "nu-gap.github.io",
+   "description": "The New GNUstep Application Project \u2014 native desktop apps and open foundations",
+   "source": "https://github.com/nu-gap/nu-gap.github.io",
+   "archived": false
+  },
+  {
+   "name": "apps-aclock",
+   "description": "A desktop clock with configurable faces.",
+   "source": "https://github.com/nu-gap/apps-aclock",
+   "archived": false
+  },
+  {
+   "name": "apps-cynthiune",
+   "description": "A music player with format and audio-output plug-ins.",
+   "source": "https://github.com/nu-gap/apps-cynthiune",
+   "archived": false
+  },
+  {
+   "name": "apps-ftp",
+   "description": "A graphical File Transfer Protocol client.",
+   "source": "https://github.com/nu-gap/apps-ftp",
+   "archived": false
+  },
+  {
+   "name": "apps-flexisheet",
+   "description": "A multidimensional spreadsheet application.",
+   "source": "https://github.com/nu-gap/apps-flexisheet",
+   "archived": false
+  },
+  {
+   "name": "apps-gspdf",
+   "description": "A PostScript and PDF viewer using Ghostscript.",
+   "source": "https://github.com/nu-gap/apps-gspdf",
+   "archived": false
+  },
+  {
+   "name": "apps-gmastermind",
+   "description": "A desktop version of the Mastermind code-breaking game.",
+   "source": "https://github.com/nu-gap/apps-gmastermind",
+   "archived": false
+  },
+  {
+   "name": "apps-gmines",
+   "description": "A Minesweeper-style puzzle game.",
+   "source": "https://github.com/nu-gap/apps-gmines",
+   "archived": false
+  },
+  {
+   "name": "apps-gshisen",
+   "description": "A Shisen-Sho tile-matching board game.",
+   "source": "https://github.com/nu-gap/apps-gshisen",
+   "archived": false
+  },
+  {
+   "name": "apps-gomoku",
+   "description": "A five-in-a-row strategy board game.",
+   "source": "https://github.com/nu-gap/apps-gomoku",
+   "archived": false
+  },
+  {
+   "name": "apps-jigsaw",
+   "description": "A jigsaw puzzle application.",
+   "source": "https://github.com/nu-gap/apps-jigsaw",
+   "archived": false
+  },
+  {
+   "name": "apps-ladder",
+   "description": "A desktop Ladder game from the GAP collection.",
+   "source": "https://github.com/nu-gap/apps-ladder",
+   "archived": false
+  },
+  {
+   "name": "apps-lapispuzzle",
+   "description": "A falling-block puzzle game.",
+   "source": "https://github.com/nu-gap/apps-lapispuzzle",
+   "archived": false
+  },
+  {
+   "name": "apps-sudoku",
+   "description": "A desktop Sudoku puzzle game.",
+   "source": "https://github.com/nu-gap/apps-sudoku",
+   "archived": false
+  },
+  {
+   "name": "apps-graphos",
+   "description": "A vector drawing application.",
+   "source": "https://github.com/nu-gap/apps-graphos",
+   "archived": false
+  },
+  {
+   "name": "apps-grr",
+   "description": "An RSS feed reader using RSSKit.",
+   "source": "https://github.com/nu-gap/apps-grr",
+   "archived": false
+  },
+  {
+   "name": "apps-innerspace",
+   "description": "A screensaver application with a collection of animation modules.",
+   "source": "https://github.com/nu-gap/apps-innerspace",
+   "archived": false
+  },
+  {
+   "name": "apps-jishyo",
+   "description": "An English-to-Japanese dictionary based on xjdic.",
+   "source": "https://github.com/nu-gap/apps-jishyo",
+   "archived": false
+  },
+  {
+   "name": "apps-laternamagica",
+   "description": "An image viewer with slideshow support.",
+   "source": "https://github.com/nu-gap/apps-laternamagica",
+   "archived": false
+  },
+  {
+   "name": "apps-mpdcon",
+   "description": "A graphical client for Music Player Daemon.",
+   "source": "https://github.com/nu-gap/apps-mpdcon",
+   "archived": false
+  },
+  {
+   "name": "apps-ppc",
+   "description": "An unfinished emulator-control application scaffold from GAP.",
+   "source": "https://github.com/nu-gap/apps-ppc",
+   "archived": false
+  },
+  {
+   "name": "apps-pictureframe",
+   "description": "A digital picture-frame application, including its SimpleWeather companion.",
+   "source": "https://github.com/nu-gap/apps-pictureframe",
+   "archived": false
+  },
+  {
+   "name": "apps-remotedesk",
+   "description": "A remote desktop client for Windows desktops.",
+   "source": "https://github.com/nu-gap/apps-remotedesk",
+   "archived": false
+  },
+  {
+   "name": "apps-stepulator",
+   "description": "A desktop calculator.",
+   "source": "https://github.com/nu-gap/apps-stepulator",
+   "archived": false
+  },
+  {
+   "name": "apps-talksoup",
+   "description": "An IRC client with a plug-in-based architecture.",
+   "source": "https://github.com/nu-gap/apps-talksoup",
+   "archived": false
+  },
+  {
+   "name": "apps-vespucci",
+   "description": "An experimental web browser from the GAP collection.",
+   "source": "https://github.com/nu-gap/apps-vespucci",
+   "archived": false
+  },
+  {
+   "name": "apps-addresses",
+   "description": "An address book and address-management frameworks, with companion tools.",
+   "source": "https://github.com/nu-gap/apps-addresses",
+   "archived": false
+  },
+  {
+   "name": "apps-audiomixer",
+   "description": "A desktop audio mixer.",
+   "source": "https://github.com/nu-gap/apps-audiomixer",
+   "archived": false
+  },
+  {
+   "name": "apps-helpviewer",
+   "description": "A viewer for application help documentation.",
+   "source": "https://github.com/nu-gap/apps-helpviewer",
+   "archived": false
+  },
+  {
+   "name": "apps-installer",
+   "description": "The GAP package-installer application source.",
+   "source": "https://github.com/nu-gap/apps-installer",
+   "archived": false
+  },
+  {
+   "name": "apps-nfsconfig",
+   "description": "A graphical NFS configuration application.",
+   "source": "https://github.com/nu-gap/apps-nfsconfig",
+   "archived": false
+  },
+  {
+   "name": "apps-stepsync",
+   "description": "A data synchronization and backup application.",
+   "source": "https://github.com/nu-gap/apps-stepsync",
+   "archived": false
+  },
+  {
+   "name": "apps-zipper",
+   "description": "A graphical archive manager.",
+   "source": "https://github.com/nu-gap/apps-zipper",
+   "archived": false
+  },
+  {
+   "name": "apps-batmon",
+   "description": "A laptop battery status monitor.",
+   "source": "https://github.com/nu-gap/apps-batmon",
+   "archived": false
+  },
+  {
+   "name": "apps-loginpanel",
+   "description": "A graphical login and authentication panel.",
+   "source": "https://github.com/nu-gap/apps-loginpanel",
+   "archived": false
+  },
+  {
+   "name": "apps-chess",
+   "description": "The classic Chess application port in GAP, distinct from Grandmaster Chess.",
+   "source": "https://github.com/nu-gap/apps-chess",
+   "archived": false
+  },
+  {
+   "name": "apps-nextgo",
+   "description": "A Go board game ported from NeXTSTEP.",
+   "source": "https://github.com/nu-gap/apps-nextgo",
+   "archived": false
+  },
+  {
+   "name": "apps-bean",
+   "description": "The Bean rich-text editor source port maintained in GAP.",
+   "source": "https://github.com/nu-gap/apps-bean",
+   "archived": false
+  },
+  {
+   "name": "apps-nextspim",
+   "description": "An AppKit front end for the SPIM MIPS simulator, with debugging controls.",
+   "source": "https://github.com/nu-gap/apps-nextspim",
+   "archived": false
+  },
+  {
+   "name": "apps-timemon",
+   "description": "A graphical CPU load monitor.",
+   "source": "https://github.com/nu-gap/apps-timemon",
+   "archived": false
+  },
+  {
+   "name": "libs-pdfkit",
+   "description": "A PDF display framework based on xpdf.",
+   "source": "https://github.com/nu-gap/libs-pdfkit",
+   "archived": false
+  },
+  {
+   "name": "libs-rsskit",
+   "description": "RSS and Atom feed parsing framework used by Grr.",
+   "source": "https://github.com/nu-gap/libs-rsskit",
+   "archived": false
+  },
+  {
+   "name": "libs-netclasses",
+   "description": "Networking classes used by TalkSoup.",
+   "source": "https://github.com/nu-gap/libs-netclasses",
+   "archived": false
+  },
+  {
+   "name": "libs-timeui",
+   "description": "Time and clock user-interface controls.",
+   "source": "https://github.com/nu-gap/libs-timeui",
+   "archived": false
+  },
+  {
+   "name": "libs-oresme",
+   "description": "A graph-drawing framework.",
+   "source": "https://github.com/nu-gap/libs-oresme",
+   "archived": false
+  },
+  {
+   "name": "libs-berkelium",
+   "description": "Experimental browser integration framework from GAP.",
+   "source": "https://github.com/nu-gap/libs-berkelium",
+   "archived": false
+  },
+  {
+   "name": "apps-resound",
+   "description": "Resound 3.0 historical Rhapsody sound editor source, preserved for GNUstep porting",
+   "source": "https://github.com/nu-gap/apps-resound",
+   "archived": false
+  },
+  {
+   "name": "apps-processmonitor",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-processmonitor",
+   "archived": false
+  },
+  {
+   "name": "apps-notes",
+   "description": "",
+   "source": "https://github.com/nu-gap/apps-notes",
+   "archived": false
+  }
+ ]
+}
