@@ -42,6 +42,10 @@ simulated.
   panels, window managers); preference panes, which NextBSD's settings apps
   cover; and apps without an app icon.
 - **Every app shows its origin** (nu-gap or Gershwin) after its category.
+- **The catalog ships with Software.** The catalog and every listed app's icon
+  are bundled in Software.app, so the store opens instantly and offline.
+  Adding an app is a PR to this repository; users get it with the next
+  Software package through `pkg upgrade`.
 
 ## Catalog data
 
@@ -53,4 +57,8 @@ simulated.
 
 ## License
 
-BSD 2-Clause. See [LICENSE](LICENSE).
+BSD 2-Clause. See [LICENSE](LICENSE). This covers Software's own code.
+
+The app icons in the mockup, and the catalog icons Software will ship, belong
+to their projects. [`catalog/icon-sources.json`](catalog/icon-sources.json)
+lists where each one comes from.
