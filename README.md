@@ -62,7 +62,8 @@ simulated.
   SYSTEM domain by default; Software builds it for the domain the user chose
   instead, and leaves out components that copy files into `/System`
   themselves.
-- **Not listed:** apps NextBSD already ships in `/System/Applications`; the
+- **Not listed:** apps NextBSD already ships, in `/System/Applications` or
+  `/System/Library/CoreServices` (Workspace, the Dock, loginwindow); the
   desktop's own parts (Menu, Dock, file managers, virtual desktops, login
   panels, window managers); preference panes, which NextBSD's settings apps
   cover; and apps without an app icon.

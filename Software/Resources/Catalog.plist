@@ -1059,34 +1059,6 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>installer</string>
-			<key>Name</key>
-			<string>Installer</string>
-			<key>AppName</key>
-			<string>Installer</string>
-			<key>Description</key>
-			<string>Package installer for installing software</string>
-			<key>Category</key>
-			<string>System</string>
-			<key>Origin</key>
-			<string>nu-gap</string>
-			<key>ListedIn</key>
-			<string>Build.app</string>
-			<key>Repository</key>
-			<string>nu-gap/apps-installer</string>
-			<key>GitURL</key>
-			<string>https://github.com/nu-gap/apps-installer</string>
-			<key>Alternatives</key>
-			<array>
-				<string>gnustep/gap/system-apps/Installer</string>
-			</array>
-			<key>Icon</key>
-			<string>installer.tiff</string>
-			<key>IconSource</key>
-			<string>Installer.app.tiff</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
 			<string>jigsaw</string>
 			<key>Name</key>
 			<string>Jigsaw</string>
@@ -2594,13 +2566,21 @@
 		<string>Energy</string>
 		<string>GSSpeechServer</string>
 		<string>InnerSpace</string>
+		<string>Installer</string>
 		<string>Keyboard</string>
+		<string>Language &amp; Region</string>
+		<string>loginwindow</string>
 		<string>Mouse</string>
 		<string>Network</string>
 		<string>Printers</string>
+		<string>ScreenCaptureAgent</string>
+		<string>Software</string>
 		<string>Sound</string>
 		<string>Terminal</string>
 		<string>Trackpad</string>
+		<string>Update</string>
+		<string>Users &amp; Login</string>
+		<string>Webcam</string>
 		<string>Workspace</string>
 		<string>XLibre</string>
 	</array>

@@ -57,14 +57,18 @@ DOES_NOT_BUILD = {
                 # Software can't install (it copies into /System itself)
 }
 
-# What NextBSD ships in /System/Applications (and its desktop apps in
-# ~/Applications until they move there). An app that builds one of these
-# names isn't listed, since it would take NextBSD's app's place; and
-# Software doesn't take a bundle of one of these names for a catalog app
-# it didn't install itself.
+# What NextBSD ships: the NextBSD-desktop package's apps in
+# /System/Applications, and its system UI in /System/Library/CoreServices
+# (Workspace, the Dock, loginwindow, ScreenCaptureAgent, and NextBSD-gnustep's
+# GSSpeechServer), which nextbsd-gnustep-apps also installs in ~/Applications
+# for now. An app that builds one of these names isn't listed, since it would
+# take NextBSD's app's place; and Software doesn't take a bundle of one of
+# these names for a catalog app it didn't install itself.
 NEXTBSD_APPS = ["Bluetooth", "Date & Time", "Displays", "Dock", "Energy",
-                "GSSpeechServer", "InnerSpace", "Keyboard", "Mouse",
-                "Network", "Printers", "Sound", "Terminal", "Trackpad",
+                "GSSpeechServer", "InnerSpace", "Installer", "Keyboard",
+                "Language & Region", "loginwindow", "Mouse", "Network",
+                "Printers", "ScreenCaptureAgent", "Software", "Sound",
+                "Terminal", "Trackpad", "Update", "Users & Login", "Webcam",
                 "Workspace", "XLibre"]
 
 
