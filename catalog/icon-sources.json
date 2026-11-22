@@ -1,0 +1,908 @@
+{
+ "aclock": {
+  "status": "ok",
+  "repo": "nu-gap/apps-aclock",
+  "path": "Resources/AClockIcon.tiff",
+  "how": "GNUmakefile"
+ },
+ "addresses": {
+  "status": "ok",
+  "repo": "nu-gap/apps-addresses",
+  "path": "AddressManager/AddressManager.tiff",
+  "how": "GNUmakefile"
+ },
+ "anclock": {
+  "status": "missing",
+  "repo": "erincodepirate/gs_analog_clock"
+ },
+ "androidscreen": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "assistants": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Assistants/ColorAssistant/Color.png",
+  "how": "GNUmakefile"
+ },
+ "audiomixer": {
+  "status": "ok",
+  "repo": "nu-gap/apps-audiomixer",
+  "path": "Resources/AudioMixer.png",
+  "how": "GNUmakefile"
+ },
+ "batmon": {
+  "status": "ok",
+  "repo": "nu-gap/apps-batmon",
+  "path": "Resources/BatMon_icon.tif",
+  "how": "GNUmakefile"
+ },
+ "bean": {
+  "status": "ok",
+  "repo": "nu-gap/apps-bean",
+  "path": "icn-beanapp.icns",
+  "how": "GNUmakefile"
+ },
+ "billiards": {
+  "status": "missing",
+  "repo": "gcasa/Billiards"
+ },
+ "bluetooth": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Bluetooth/Bluetooth.png",
+  "how": "filename"
+ },
+ "books": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Books/Books.png",
+  "how": "Info plist"
+ },
+ "bootenvironments": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "BootEnvironments/BootEnvironments.png",
+  "how": "filename"
+ },
+ "breakout": {
+  "status": "ok",
+  "repo": "gcasa/Breakout",
+  "path": "Resources/Breakout.iconset/icon_512x512.png",
+  "how": "GNUmakefile"
+ },
+ "brutus": {
+  "status": "ok",
+  "repo": "neoncortex/Brutus",
+  "path": "Brutus.png",
+  "how": "Info plist"
+ },
+ "build": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Build/Resources/Build.png",
+  "how": "GNUmakefile"
+ },
+ "calculate": {
+  "status": "ok",
+  "repo": "anthonyc-r/Calculate",
+  "path": "Resources/Calculate.tiff",
+  "how": "GNUmakefile"
+ },
+ "calendar": {
+  "status": "missing",
+  "repo": "AlessandroSangiuliano/Calendar"
+ },
+ "camera": {
+  "status": "ok",
+  "repo": "gsimageapps/Camera",
+  "path": "Images/Camera.png",
+  "how": "GNUmakefile"
+ },
+ "cellconnect": {
+  "status": "ok",
+  "repo": "eukara/CellConnect.app",
+  "path": "CellConnect.tiff",
+  "how": "Info plist"
+ },
+ "chess": {
+  "status": "ok",
+  "repo": "nu-gap/apps-chess",
+  "path": "ChessApp.tiff",
+  "how": "Info plist"
+ },
+ "clock": {
+  "status": "ok",
+  "repo": "anthonyc-r/Clock",
+  "path": "Resources/clock.tiff",
+  "how": "GNUmakefile"
+ },
+ "clock-eric": {
+  "status": "missing",
+  "repo": "erincodepirate/gs_clock"
+ },
+ "colloquy": {
+  "status": "ok",
+  "repo": "probonopd/colloquy",
+  "path": "Mac-Old/Mac-Old/Plug-Ins/Web Interface/Resources/colloquy.png",
+  "how": "GNUmakefile"
+ },
+ "color": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Color/Color.png",
+  "how": "filename"
+ },
+ "console": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Console/Resources/Console.png",
+  "how": "GNUmakefile"
+ },
+ "cpucheck": {
+  "status": "ok",
+  "repo": "gcasa/apps-cpucheck",
+  "path": "Resources/CPUCheck.tiff",
+  "how": "GNUmakefile"
+ },
+ "cynthiune": {
+  "status": "ok",
+  "repo": "nu-gap/apps-cynthiune",
+  "path": "Images/Cynthiune.tiff",
+  "how": "GNUmakefile"
+ },
+ "dictionary": {
+  "status": "ok",
+  "repo": "gcasa/Dictionary",
+  "path": "Dictionary.tiff",
+  "how": "GNUmakefile"
+ },
+ "dingusppc": {
+  "status": "ok",
+  "repo": "probonopd/DingusPPC.app",
+  "path": "Resources/DingusPPC.png",
+  "how": "GNUmakefile"
+ },
+ "directoryservices": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "diskutility": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "DiskUtility/Resources/DiskUtility.png",
+  "how": "GNUmakefile"
+ },
+ "display": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Display/Display.png",
+  "how": "filename"
+ },
+ "dock": {
+  "status": "ok",
+  "repo": "gcasa/apps-dock",
+  "path": "Resources/DockWM.tiff",
+  "how": "GNUmakefile"
+ },
+ "dragtool": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "droidtransfer": {
+  "status": "ok",
+  "repo": "probonopd/DroidTransfer",
+  "path": "Resources/DroidTransfer.png",
+  "how": "GNUmakefile"
+ },
+ "easydiff": {
+  "status": "ok",
+  "repo": "gnustep/apps-easydiff",
+  "path": "Resources/EasyDiff.png",
+  "how": "GNUmakefile"
+ },
+ "energy": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Energy/Energy.png",
+  "how": "filename"
+ },
+ "flexisheet": {
+  "status": "ok",
+  "repo": "nu-gap/apps-flexisheet",
+  "path": "Images/Application.icns",
+  "how": "Info plist"
+ },
+ "fontbook": {
+  "status": "ok",
+  "repo": "gnustep/apps-fontbook",
+  "path": "FontBook/Assets.xcassets/AppIcon.appiconset/font_book.png",
+  "how": "GNUmakefile"
+ },
+ "fortunate": {
+  "status": "ok",
+  "repo": "alexmyczko/Fortunate.app",
+  "path": "Fortunate.tiff",
+  "how": "Info plist"
+ },
+ "ftp": {
+  "status": "ok",
+  "repo": "nu-gap/apps-ftp",
+  "path": "Resources/FTP_icon_gs.tif",
+  "how": "GNUmakefile"
+ },
+ "games-ported": {
+  "status": "missing",
+  "repo": "gnustep/gap",
+  "note": "collection or screenshots only"
+ },
+ "games-user": {
+  "status": "missing",
+  "repo": "gnustep/gap",
+  "note": "collection or screenshots only"
+ },
+ "gem": {
+  "status": "ok",
+  "repo": "anthonyc-r/Gem",
+  "path": "Resources/Gemas.tiff",
+  "how": "GNUmakefile"
+ },
+ "ggtd": {
+  "status": "ok",
+  "repo": "routoure/GGTD",
+  "path": "Ggtd.tiff",
+  "how": "Info plist"
+ },
+ "globalshortcuts": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "GlobalShortcuts/GlobalShortcuts.png",
+  "how": "filename"
+ },
+ "gmastermind": {
+  "status": "ok",
+  "repo": "nu-gap/apps-gmastermind",
+  "path": "Resources/GMastermind.tiff",
+  "how": "GNUmakefile"
+ },
+ "gmines": {
+  "status": "ok",
+  "repo": "nu-gap/apps-gmines",
+  "path": "Resources/GMines.tiff",
+  "how": "GNUmakefile"
+ },
+ "go": {
+  "status": "ok",
+  "repo": "nu-gap/apps-nextgo",
+  "path": "Source/NeXTGo.tiff",
+  "how": "GNUmakefile"
+ },
+ "gomoku": {
+  "status": "ok",
+  "repo": "gomoku/Gomoku.app-GNUstep",
+  "path": "Gomoku.png",
+  "how": "filename"
+ },
+ "gorm": {
+  "status": "ok",
+  "repo": "gnustep/apps-gorm",
+  "path": "GormCore/Images/GormFile.tiff",
+  "how": "filename"
+ },
+ "graphos": {
+  "status": "ok",
+  "repo": "nu-gap/apps-graphos",
+  "path": "Resources/graphos_appicon_48.tif",
+  "how": "GNUmakefile"
+ },
+ "grr": {
+  "status": "ok",
+  "repo": "nu-gap/apps-grr",
+  "path": "Resources/Icons/Application/Grr-Icon.icns",
+  "how": "Info plist"
+ },
+ "gschess": {
+  "status": "ok",
+  "repo": "gcasa/apps-gschess",
+  "path": "Resources/app-icon.png",
+  "how": "GNUmakefile"
+ },
+ "gshisen": {
+  "status": "ok",
+  "repo": "nu-gap/apps-gshisen",
+  "path": "Resources/GShisen.tiff",
+  "how": "GNUmakefile"
+ },
+ "gspdf": {
+  "status": "ok",
+  "repo": "nu-gap/apps-gspdf",
+  "path": "Resources/GSPdf.tiff",
+  "how": "GNUmakefile"
+ },
+ "gworkspace": {
+  "status": "ok",
+  "repo": "gnustep/apps-gworkspace",
+  "path": "GWorkspace/Resources/Icons/FileManager.tiff",
+  "how": "Info plist"
+ },
+ "help": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Help/Help.png",
+  "how": "Info plist"
+ },
+ "helpviewer": {
+  "status": "ok",
+  "repo": "nu-gap/apps-helpviewer",
+  "path": "Resources/HelpViewer.tiff",
+  "how": "GNUmakefile"
+ },
+ "innerspace": {
+  "status": "ok",
+  "repo": "nu-gap/apps-innerspace",
+  "path": "InnerSpace_Icon.icns",
+  "how": "GNUmakefile"
+ },
+ "installer": {
+  "status": "ok",
+  "repo": "nu-gap/apps-installer",
+  "path": "Installer.app.tiff",
+  "how": "GNUmakefile"
+ },
+ "itemflow": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "jigsaw": {
+  "status": "ok",
+  "repo": "nu-gap/apps-jigsaw",
+  "path": "Resources/GPuzzle2.tiff",
+  "how": "Info plist"
+ },
+ "jishyo": {
+  "status": "ok",
+  "repo": "nu-gap/apps-jishyo",
+  "path": "Resources/GNUstep/Jishyo.tiff",
+  "how": "Info plist"
+ },
+ "keyboard": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Keyboard/Keyboard.png",
+  "how": "filename"
+ },
+ "ladder": {
+  "status": "ok",
+  "repo": "nu-gap/apps-ladder",
+  "path": "Ladder.tiff",
+  "how": "GNUmakefile"
+ },
+ "lapispuzzle": {
+  "status": "ok",
+  "repo": "nu-gap/apps-lapispuzzle",
+  "path": "LapisPuzzle.tiff",
+  "how": "GNUmakefile"
+ },
+ "laternamagica": {
+  "status": "ok",
+  "repo": "nu-gap/apps-laternamagica",
+  "path": "Resources/laternamagica_48.tif",
+  "how": "GNUmakefile"
+ },
+ "ldap-web-explorer": {
+  "status": "missing",
+  "repo": "gnustep/apps-gsldapwebexplorer"
+ },
+ "loginpanel": {
+  "status": "ok",
+  "repo": "nu-gap/apps-loginpanel",
+  "path": "loginPanel.tiff",
+  "how": "filename"
+ },
+ "loginwindow": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "macbasic": {
+  "status": "ok",
+  "repo": "gcasa/MacBasic",
+  "path": "Resources/MacBasicIcon.png",
+  "how": "GNUmakefile"
+ },
+ "mail": {
+  "status": "ok",
+  "repo": "onflapp/gs-mail",
+  "path": "Resources/Icons/GNUMail.tiff",
+  "how": "Info plist"
+ },
+ "mandelbrot": {
+  "status": "ok",
+  "repo": "gcasa/Mandelbrot",
+  "path": "assets/Mandelbrot.icns",
+  "how": "Info plist"
+ },
+ "manopen": {
+  "status": "ok",
+  "repo": "nu-gap/manopen",
+  "path": "ManOpen/ManOpen.icns",
+  "how": "Info plist"
+ },
+ "markdownreader": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "markdowntextconverter": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "markdownviewer": {
+  "status": "ok",
+  "repo": "danjboyd/ObjcMarkdown",
+  "path": "Resources/markdown_icon.png",
+  "how": "GNUmakefile"
+ },
+ "mediaplayer": {
+  "status": "ok",
+  "repo": "anthonyc-r/MediaPlayer",
+  "path": "Resources/MediaPlayer.tiff",
+  "how": "GNUmakefile"
+ },
+ "memwatch": {
+  "status": "ok",
+  "repo": "gcasa/apps-memwatch",
+  "path": "Resources/MemWatch.tiff",
+  "how": "GNUmakefile"
+ },
+ "menu": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Menu/Menu.png",
+  "how": "GNUmakefile"
+ },
+ "menuprefpane": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "midimon": {
+  "status": "missing",
+  "repo": "mclarenlabs/libs-mclaren-alpha",
+  "note": "collection or screenshots only"
+ },
+ "miditalk": {
+  "status": "missing",
+  "repo": "mclarenlabs/libs-mclaren-alpha",
+  "note": "collection or screenshots only"
+ },
+ "modplugplay": {
+  "status": "ok",
+  "repo": "alexmyczko/ModPlugPlay.app",
+  "path": "ModPlugPlay.tiff",
+  "how": "Info plist"
+ },
+ "molecule": {
+  "status": "ok",
+  "repo": "gcasa/Molecule",
+  "path": "src/Molecule.icns",
+  "how": "GNUmakefile"
+ },
+ "mouse": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Mouse/Mouse.png",
+  "how": "filename"
+ },
+ "mpdcon": {
+  "status": "ok",
+  "repo": "nu-gap/apps-mpdcon",
+  "path": "Resources/MPDCon.tiff",
+  "how": "GNUmakefile"
+ },
+ "mplayer": {
+  "status": "ok",
+  "repo": "eukara/MPlayer.app",
+  "path": "Resources/Images/MPlayerIcon.tiff",
+  "how": "Info plist"
+ },
+ "mskfilterdemo": {
+  "status": "missing",
+  "repo": "mclarenlabs/libs-mclaren-alpha",
+  "note": "collection or screenshots only"
+ },
+ "mskorgandemo": {
+  "status": "missing",
+  "repo": "mclarenlabs/libs-mclaren-alpha",
+  "note": "collection or screenshots only"
+ },
+ "netcheck": {
+  "status": "ok",
+  "repo": "gcasa/apps-netcheck",
+  "path": "Resources/NetCheck.tiff",
+  "how": "GNUmakefile"
+ },
+ "network": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Network/Network.png",
+  "how": "filename"
+ },
+ "networkbrowser": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "nfsconfig": {
+  "status": "missing",
+  "repo": "nu-gap/apps-nfsconfig"
+ },
+ "nfsmanager": {
+  "status": "ok",
+  "repo": "gnustep/apps-nfsmanager",
+  "path": "NFSManager/Assets.xcassets/AppIcon.appiconset/nfs_manager32 1.png",
+  "how": "Info plist"
+ },
+ "notepad-anthonyc-r": {
+  "status": "missing",
+  "repo": "anthonyc-r/Notepad"
+ },
+ "notepad-thomasf": {
+  "status": "ok",
+  "repo": "thomasfuhringer/notepad.app",
+  "path": "Resources/AppIcon.tiff",
+  "how": "Info plist"
+ },
+ "notes": {
+  "status": "missing",
+  "repo": "nu-gap/apps-notes"
+ },
+ "nx-void": {
+  "status": "ok",
+  "repo": "gcasa/NX_Void",
+  "path": "Resources/NX_Void.png",
+  "how": "Info plist"
+ },
+ "nxvncserver": {
+  "status": "missing",
+  "repo": "gcasa/NXVNCServer"
+ },
+ "packagemanager": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "PackageManager/Placeholders/3D Printing/FreeCAD/Resources/FreeCAD.png",
+  "how": "Info plist"
+ },
+ "pacman": {
+  "status": "missing",
+  "repo": "gcasa/PacMan"
+ },
+ "phone": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "pictureframe": {
+  "status": "ok",
+  "repo": "nu-gap/apps-pictureframe",
+  "path": "PictureFrame.tiff",
+  "how": "Info plist"
+ },
+ "player": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Player/Resources/Player.png",
+  "how": "GNUmakefile"
+ },
+ "ppc": {
+  "status": "ok",
+  "repo": "nu-gap/apps-ppc",
+  "path": "Resources/PPC.tiff",
+  "how": "GNUmakefile"
+ },
+ "printers": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Printers/Printers.png",
+  "how": "filename"
+ },
+ "process-monitor": {
+  "status": "missing",
+  "repo": "nu-gap/apps-processmonitor"
+ },
+ "processes": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Processes/Resources/Processes.png",
+  "how": "filename"
+ },
+ "profiler": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "projectcenter": {
+  "status": "ok",
+  "repo": "gnustep/apps-projectcenter",
+  "path": "Images/ProjectCenter.tiff",
+  "how": "GNUmakefile"
+ },
+ "remotedesk": {
+  "status": "ok",
+  "repo": "nu-gap/apps-remotedesk",
+  "path": "Resources/remotedesk.tiff",
+  "how": "GNUmakefile"
+ },
+ "remotedesktop": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "RemoteDesktop/RemoteDesktop.icns",
+  "how": "GNUmakefile"
+ },
+ "resound": {
+  "status": "ok",
+  "repo": "nu-gap/apps-resound",
+  "path": "Source/wav.tiff",
+  "how": "Info plist"
+ },
+ "scoremaker": {
+  "status": "ok",
+  "repo": "gcasa/apps-scoremaker",
+  "path": "Resources/ScoreMakerAppIcon.png",
+  "how": "GNUmakefile"
+ },
+ "scoreplayer": {
+  "status": "missing",
+  "repo": "gcasa/ScorePlayer"
+ },
+ "screenshot": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Screenshot/Resources/Screenshot.png",
+  "how": "GNUmakefile"
+ },
+ "sharing": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Sharing/Sharing.png",
+  "how": "filename"
+ },
+ "simpleagenda": {
+  "status": "ok",
+  "repo": "poroussel/simpleagenda",
+  "path": "Resources/Calendar.tiff",
+  "how": "GNUmakefile"
+ },
+ "smallnote": {
+  "status": "missing",
+  "repo": "hsnamr/SmallNote"
+ },
+ "sound": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Sound/Sound.png",
+  "how": "filename"
+ },
+ "spim": {
+  "status": "ok",
+  "repo": "nu-gap/apps-nextspim",
+  "path": "spim.tiff",
+  "how": "GNUmakefile"
+ },
+ "st-tos": {
+  "status": "ok",
+  "repo": "gcasa/ST_TOS",
+  "path": "Resources/STSOSIcon.png",
+  "how": "Info plist"
+ },
+ "startupdisk": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "StartupDisk/StartupDisk.png",
+  "how": "filename"
+ },
+ "stepbill": {
+  "status": "ok",
+  "repo": "alexmyczko/StepBill.app",
+  "path": "tiffs/icon.tiff",
+  "how": "GNUmakefile"
+ },
+ "stepdown": {
+  "status": "ok",
+  "repo": "gcasa/stepdown",
+  "path": "resources/StepDown.tiff",
+  "how": "GNUmakefile"
+ },
+ "stepsync": {
+  "status": "ok",
+  "repo": "nu-gap/apps-stepsync",
+  "path": "Resources/StepSync.tiff",
+  "how": "GNUmakefile"
+ },
+ "stepulator": {
+  "status": "ok",
+  "repo": "nu-gap/apps-stepulator",
+  "path": "Resources/Stepulator.tiff",
+  "how": "GNUmakefile"
+ },
+ "stickies": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Stickies/Stickies.png",
+  "how": "Info plist"
+ },
+ "sudedito": {
+  "status": "missing",
+  "repo": "richRemer/Sudedito"
+ },
+ "sudoku": {
+  "status": "ok",
+  "repo": "nu-gap/apps-sudoku",
+  "path": "Resources/Sudoku.tiff",
+  "how": "GNUmakefile"
+ },
+ "surfboard": {
+  "status": "ok",
+  "repo": "anthonyc-r/SurfBoard",
+  "path": "Resources/SurfBoard.tiff",
+  "how": "GNUmakefile"
+ },
+ "synth80": {
+  "status": "missing",
+  "repo": "mclarenlabs/libs-mclaren-alpha",
+  "note": "collection or screenshots only"
+ },
+ "systememulator": {
+  "status": "ok",
+  "repo": "probonopd/SystemEmulator",
+  "path": "Resources/SystemEmulator.png",
+  "how": "GNUmakefile"
+ },
+ "systempreferences": {
+  "status": "ok",
+  "repo": "gnustep/apps-systempreferences",
+  "path": "SystemPreferences/Resources/Images/SystemPreferences.png",
+  "how": "GNUmakefile"
+ },
+ "systemprofiler": {
+  "status": "missing",
+  "repo": "gershwin-desktop/gershwin-components"
+ },
+ "talksoup": {
+  "status": "ok",
+  "repo": "nu-gap/apps-talksoup",
+  "path": "Source/Images/TalkSoup.tiff",
+  "how": "GNUmakefile"
+ },
+ "terminal": {
+  "status": "ok",
+  "repo": "nextbsd/apps-terminal",
+  "path": "Resources/Terminal.png",
+  "how": "GNUmakefile"
+ },
+ "terminal-anthonyc-r": {
+  "status": "missing",
+  "repo": "anthonyc-r/Terminal"
+ },
+ "terminal-gap": {
+  "status": "ok",
+  "repo": "gnustep/gap",
+  "path": "system-apps/Terminal/Resources/Terminal.tiff",
+  "how": "GNUmakefile"
+ },
+ "terminal-onflapp": {
+  "status": "ok",
+  "repo": "onflapp/gs-terminal",
+  "path": "Terminal/Resources/Terminal.tiff",
+  "how": "GNUmakefile"
+ },
+ "textedit": {
+  "status": "ok",
+  "repo": "onflapp/gs-textedit",
+  "path": "Edit.tiff",
+  "how": "GNUmakefile"
+ },
+ "the-unarchiver": {
+  "status": "ok",
+  "repo": "probonopd/theunarchiver-gnustep",
+  "path": "Compat/unarchiver.png",
+  "how": "GNUmakefile"
+ },
+ "thelounge": {
+  "status": "ok",
+  "repo": "probonopd/TheLounge",
+  "path": "Messages/Messages.png",
+  "how": "Info plist"
+ },
+ "thematic": {
+  "status": "ok",
+  "repo": "gnustep/apps-thematic",
+  "path": "Thematic.png",
+  "how": "GNUmakefile"
+ },
+ "themepreview": {
+  "status": "missing",
+  "repo": "gnustep/apps-themepreview"
+ },
+ "timemon": {
+  "status": "ok",
+  "repo": "nu-gap/apps-timemon",
+  "path": "TimeMon.tiff",
+  "how": "GNUmakefile"
+ },
+ "topbar": {
+  "status": "ok",
+  "repo": "gnustep/apps-topbar",
+  "path": "Divers/Separator.tiff",
+  "how": "GNUmakefile"
+ },
+ "util": {
+  "status": "missing",
+  "repo": "gnustep/gap",
+  "note": "collection or screenshots only"
+ },
+ "vespucci": {
+  "status": "ok",
+  "repo": "nu-gap/apps-vespucci",
+  "path": "Resources/vespucci_pastel_64.tif",
+  "how": "GNUmakefile"
+ },
+ "vic20": {
+  "status": "ok",
+  "repo": "gcasa/VIC20",
+  "path": "VIC20/Assets.xcassets/AppIcon.appiconset/vic20.png",
+  "how": "filename"
+ },
+ "videoplayer": {
+  "status": "ok",
+  "repo": "gnustep/apps-videoplayer",
+  "path": "Resources/videoplayer.png",
+  "how": "GNUmakefile"
+ },
+ "volumecontrol": {
+  "status": "ok",
+  "repo": "alexmyczko/VolumeControl.app",
+  "path": "headphones.tiff",
+  "how": "GNUmakefile"
+ },
+ "weather": {
+  "status": "unreachable",
+  "repo": "anthonyc-r/Weather"
+ },
+ "weather-paulo": {
+  "status": "ok",
+  "repo": "paulodelgado/Weather.app",
+  "path": "Resources/icon.png",
+  "how": "GNUmakefile"
+ },
+ "webbrowser": {
+  "status": "ok",
+  "repo": "onflapp/gs-webbrowser",
+  "path": "Resources/WebBrowser.tiff",
+  "how": "GNUmakefile"
+ },
+ "whisper": {
+  "status": "ok",
+  "repo": "gershwin-desktop/gershwin-components",
+  "path": "Whisper/Resources/Whisper.png",
+  "how": "GNUmakefile"
+ },
+ "workspace": {
+  "status": "ok",
+  "repo": "nu-gap/Finder",
+  "path": "Resources/FileViewer.png",
+  "how": "GNUmakefile"
+ },
+ "workspaces": {
+  "status": "ok",
+  "repo": "nu-gap/apps-workspaces",
+  "path": "Resources/WorkspaceSwitcher.tiff",
+  "how": "Info plist"
+ },
+ "world-clock": {
+  "status": "ok",
+  "repo": "mrtonik/Clock",
+  "path": "Clock.tiff",
+  "how": "GNUmakefile"
+ },
+ "zipper": {
+  "status": "ok",
+  "repo": "nu-gap/apps-zipper",
+  "path": "Resources/zipper.tiff",
+  "how": "GNUmakefile"
+ }
+}
