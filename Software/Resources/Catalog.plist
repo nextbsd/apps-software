@@ -231,34 +231,6 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>build</string>
-			<key>Name</key>
-			<string>Build</string>
-			<key>AppName</key>
-			<string>Build</string>
-			<key>Description</key>
-			<string>Build GNUstep apps from source from a catalog of Git repositories</string>
-			<key>Category</key>
-			<string>Developer Tools</string>
-			<key>Origin</key>
-			<string>Gershwin</string>
-			<key>ListedIn</key>
-			<string>gershwin-components</string>
-			<key>Repository</key>
-			<string>gershwin-desktop/gershwin-components</string>
-			<key>GitURL</key>
-			<string>https://github.com/gershwin-desktop/gershwin-components</string>
-			<key>RepositoryPath</key>
-			<string>Build</string>
-			<key>MakefilePath</key>
-			<string>Build/GNUmakefile</string>
-			<key>Icon</key>
-			<string>build.png</string>
-			<key>IconSource</key>
-			<string>Build/Resources/Build.png</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
 			<string>calculate</string>
 			<key>Name</key>
 			<string>Calculate</string>
@@ -1319,30 +1291,6 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>manopen</string>
-			<key>Name</key>
-			<string>ManOpen</string>
-			<key>AppName</key>
-			<string>ManOpen</string>
-			<key>Description</key>
-			<string>Fork of http://www.clindberg.org/projects/ManOpen.html updated for Intel, 64-bit, 10.6.</string>
-			<key>Category</key>
-			<string>Developer Tools</string>
-			<key>Origin</key>
-			<string>nu-gap</string>
-			<key>ListedIn</key>
-			<string>nu-gap</string>
-			<key>Repository</key>
-			<string>nu-gap/manopen</string>
-			<key>GitURL</key>
-			<string>https://github.com/nu-gap/manopen</string>
-			<key>Icon</key>
-			<string>manopen.png</string>
-			<key>IconSource</key>
-			<string>ManOpen/ManOpen.icns</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
 			<string>markdownviewer</string>
 			<key>Name</key>
 			<string>MarkdownViewer</string>
@@ -1818,30 +1766,6 @@
 			<string>remotedesktop.png</string>
 			<key>IconSource</key>
 			<string>RemoteDesktop/RemoteDesktop.icns</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
-			<string>resound</string>
-			<key>Name</key>
-			<string>Resound</string>
-			<key>AppName</key>
-			<string>Resound</string>
-			<key>Description</key>
-			<string>Resound 3.0 historical Rhapsody sound editor source, preserved for GNUstep porting</string>
-			<key>Category</key>
-			<string>Music &amp; Video</string>
-			<key>Origin</key>
-			<string>nu-gap</string>
-			<key>ListedIn</key>
-			<string>nu-gap</string>
-			<key>Repository</key>
-			<string>nu-gap/apps-resound</string>
-			<key>GitURL</key>
-			<string>https://github.com/nu-gap/apps-resound</string>
-			<key>Icon</key>
-			<string>resound.tiff</string>
-			<key>IconSource</key>
-			<string>Source/wav.tiff</string>
 		</dict>
 		<dict>
 			<key>Identifier</key>
@@ -2364,30 +2288,6 @@
 			<string>vespucci.tiff</string>
 			<key>IconSource</key>
 			<string>Resources/vespucci_pastel_64.tif</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
-			<string>vic20</string>
-			<key>Name</key>
-			<string>VIC20</string>
-			<key>AppName</key>
-			<string>VIC20</string>
-			<key>Description</key>
-			<string>Emulate a Commodore VIC-20 with a 6502 CPU, video chip, and BASIC interpreter</string>
-			<key>Category</key>
-			<string>Games</string>
-			<key>Origin</key>
-			<string>Gershwin</string>
-			<key>ListedIn</key>
-			<string>Build.app</string>
-			<key>Repository</key>
-			<string>gcasa/VIC20</string>
-			<key>GitURL</key>
-			<string>https://github.com/gcasa/VIC20</string>
-			<key>Icon</key>
-			<string>vic20.png</string>
-			<key>IconSource</key>
-			<string>VIC20/Assets.xcassets/AppIcon.appiconset/vic20.png</string>
 		</dict>
 		<dict>
 			<key>Identifier</key>

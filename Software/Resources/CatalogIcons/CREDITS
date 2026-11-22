@@ -60,12 +60,6 @@ brutus.png
   Source:   Brutus.png
   License:  GPL-2.0 (LICENSE)
 
-build.png
-  App:      Build
-  Project:  https://github.com/gershwin-desktop/gershwin-components
-  Source:   Build/Resources/Build.png
-  License:  BSD-2-Clause (LICENSE)
-
 calculate.tiff
   App:      Calculate
   Project:  https://github.com/anthonyc-r/Calculate
@@ -312,12 +306,6 @@ mandelbrot.png
   Source:   assets/Mandelbrot.icns
   License:  GPL-3.0 (LICENSE)
 
-manopen.png
-  App:      ManOpen
-  Project:  https://github.com/nu-gap/manopen
-  Source:   ManOpen/ManOpen.icns
-  License:  no LICENSE or COPYING file found
-
 markdownviewer.png
   App:      MarkdownViewer
   Project:  https://github.com/danjboyd/ObjcMarkdown
@@ -425,12 +413,6 @@ remotedesktop.png
   Project:  https://github.com/gershwin-desktop/gershwin-components
   Source:   RemoteDesktop/RemoteDesktop.icns
   License:  BSD-2-Clause (LICENSE)
-
-resound.tiff
-  App:      Resound
-  Project:  https://github.com/nu-gap/apps-resound
-  Source:   Source/wav.tiff
-  License:  Apache-2.0 (LICENSE)
 
 scoremaker.png
   App:      ScoreMaker
@@ -551,12 +533,6 @@ vespucci.tiff
   Project:  https://github.com/nu-gap/apps-vespucci
   Source:   Resources/vespucci_pastel_64.tif
   License:  no LICENSE or COPYING file found
-
-vic20.png
-  App:      VIC20
-  Project:  https://github.com/gcasa/VIC20
-  Source:   VIC20/Assets.xcassets/AppIcon.appiconset/vic20.png
-  License:  GPL-3.0 (LICENSE)
 
 videoplayer.png
   App:      VideoPlayer
