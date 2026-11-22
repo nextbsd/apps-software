@@ -1,0 +1,607 @@
+Software.app catalog icons
+==========================
+
+Each icon in this folder is the app icon of the project named
+below, taken from that project's repository on GitHub. Icons
+larger than 128 pixels were scaled down to 128; an .icns was
+converted to PNG. Each belongs to its project. License is
+what the LICENSE or COPYING file in the app's folder, or at
+the top of its repository, says. Software's own license
+(LICENSE at the top of this repository) covers Software's
+code, not these.
+
+Made by catalog/fetch-icons.py.
+
+aclock.tiff
+  App:      AClock
+  Project:  https://github.com/nu-gap/apps-aclock
+  Source:   Resources/AClockIcon.tiff
+  License:  GPL-2.0 (COPYING)
+
+addresses.tiff
+  App:      Addresses
+  Project:  https://github.com/nu-gap/apps-addresses
+  Source:   AddressManager/AddressManager.tiff
+  License:  LGPL-2.1 (COPYING.LIB)
+
+audiomixer.png
+  App:      AudioMixer
+  Project:  https://github.com/nu-gap/apps-audiomixer
+  Source:   Resources/AudioMixer.png
+  License:  no LICENSE or COPYING file found
+
+batmon.tiff
+  App:      BatMon
+  Project:  https://github.com/nu-gap/apps-batmon
+  Source:   Resources/BatMon_icon.tif
+  License:  no LICENSE or COPYING file found
+
+bean.png
+  App:      Bean
+  Project:  https://github.com/nu-gap/apps-bean
+  Source:   icn-beanapp.icns
+  License:  no LICENSE or COPYING file found
+
+books.png
+  App:      Books
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Books/Books.png
+  License:  BSD-2-Clause (LICENSE)
+
+breakout.png
+  App:      Breakout
+  Project:  https://github.com/gcasa/Breakout
+  Source:   Resources/Breakout.iconset/icon_512x512.png
+  License:  GPL-3.0 (LICENSE)
+
+brutus.png
+  App:      Brutus
+  Project:  https://github.com/neoncortex/Brutus
+  Source:   Brutus.png
+  License:  GPL-2.0 (LICENSE)
+
+build.png
+  App:      Build
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Build/Resources/Build.png
+  License:  BSD-2-Clause (LICENSE)
+
+calculate.tiff
+  App:      Calculate
+  Project:  https://github.com/anthonyc-r/Calculate
+  Source:   Resources/Calculate.tiff
+  License:  GPL-2.0 (LICENSE)
+
+camera.png
+  App:      Camera
+  Project:  https://github.com/gsimageapps/Camera
+  Source:   Images/Camera.png
+  License:  no LICENSE or COPYING file found
+
+cellconnect.tiff
+  App:      CellConnect
+  Project:  https://github.com/eukara/CellConnect.app
+  Source:   CellConnect.tiff
+  License:  no LICENSE or COPYING file found
+
+chess.tiff
+  App:      Chess
+  Project:  https://github.com/nu-gap/apps-chess
+  Source:   ChessApp.tiff
+  License:  see COPYING
+
+clock.tiff
+  App:      Clock
+  Project:  https://github.com/anthonyc-r/Clock
+  Source:   Resources/clock.tiff
+  License:  GPL-3.0 (LICENSE)
+
+colloquy.png
+  App:      Colloquy
+  Project:  https://github.com/probonopd/colloquy
+  Source:   Mac-Old/Mac-Old/Plug-Ins/Web Interface/Resources/colloquy.png
+  License:  no LICENSE or COPYING file found
+
+console.png
+  App:      Console
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Console/Resources/Console.png
+  License:  BSD-2-Clause (LICENSE)
+
+cpucheck.tiff
+  App:      CpuCheck
+  Project:  https://github.com/gcasa/apps-cpucheck
+  Source:   Resources/CPUCheck.tiff
+  License:  GPL-3.0 (LICENSE)
+
+cynthiune.tiff
+  App:      Cynthiune
+  Project:  https://github.com/nu-gap/apps-cynthiune
+  Source:   Images/Cynthiune.tiff
+  License:  GPL-2.0 (COPYING)
+
+dictionary.tiff
+  App:      Dictionary
+  Project:  https://github.com/gcasa/Dictionary
+  Source:   Dictionary.tiff
+  License:  no LICENSE or COPYING file found
+
+dingusppc.png
+  App:      DingusPPC
+  Project:  https://github.com/probonopd/DingusPPC.app
+  Source:   Resources/DingusPPC.png
+  License:  no LICENSE or COPYING file found
+
+diskutility.png
+  App:      DiskUtility
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   DiskUtility/Resources/DiskUtility.png
+  License:  BSD-2-Clause (DiskUtility/COPYING)
+
+droidtransfer.png
+  App:      DroidTransfer
+  Project:  https://github.com/probonopd/DroidTransfer
+  Source:   Resources/DroidTransfer.png
+  License:  BSD-2-Clause (LICENSE)
+
+easydiff.png
+  App:      EasyDiff
+  Project:  https://github.com/gnustep/apps-easydiff
+  Source:   Resources/EasyDiff.png
+  License:  GPL-3.0 (COPYING)
+
+flexisheet.png
+  App:      FlexiSheet
+  Project:  https://github.com/nu-gap/apps-flexisheet
+  Source:   Images/Application.icns
+  License:  BSD-3-Clause (License.txt)
+
+fontbook.png
+  App:      FontBook
+  Project:  https://github.com/gnustep/apps-fontbook
+  Source:   FontBook/Assets.xcassets/AppIcon.appiconset/font_book.png
+  License:  no LICENSE or COPYING file found
+
+fortunate.tiff
+  App:      Fortunate
+  Project:  https://github.com/alexmyczko/Fortunate.app
+  Source:   Fortunate.tiff
+  License:  no LICENSE or COPYING file found
+
+ftp.tiff
+  App:      FTP
+  Project:  https://github.com/nu-gap/apps-ftp
+  Source:   Resources/FTP_icon_gs.tif
+  License:  no LICENSE or COPYING file found
+
+gem.tiff
+  App:      Gem
+  Project:  https://github.com/anthonyc-r/Gem
+  Source:   Resources/Gemas.tiff
+  License:  GPL-3.0 (COPYING)
+
+ggtd.tiff
+  App:      Ggtd
+  Project:  https://github.com/routoure/GGTD
+  Source:   Ggtd.tiff
+  License:  no LICENSE or COPYING file found
+
+gmastermind.tiff
+  App:      GMastermind
+  Project:  https://github.com/nu-gap/apps-gmastermind
+  Source:   Resources/GMastermind.tiff
+  License:  GPL-2.0 (COPYING)
+
+gmines.tiff
+  App:      GMines
+  Project:  https://github.com/nu-gap/apps-gmines
+  Source:   Resources/GMines.tiff
+  License:  no LICENSE or COPYING file found
+
+go.tiff
+  App:      Go
+  Project:  https://github.com/nu-gap/apps-nextgo
+  Source:   Source/NeXTGo.tiff
+  License:  GPL-2.0 (COPYING)
+
+gomoku.png
+  App:      Gomoku
+  Project:  https://github.com/gomoku/Gomoku.app-GNUstep
+  Source:   Gomoku.png
+  License:  no LICENSE or COPYING file found
+
+gorm.tiff
+  App:      Gorm
+  Project:  https://github.com/gnustep/apps-gorm
+  Source:   GormCore/Images/GormFile.tiff
+  License:  GPL-3.0 (COPYING)
+
+graphos.tiff
+  App:      Graphos
+  Project:  https://github.com/nu-gap/apps-graphos
+  Source:   Resources/graphos_appicon_48.tif
+  License:  no LICENSE or COPYING file found
+
+grr.png
+  App:      Grr
+  Project:  https://github.com/nu-gap/apps-grr
+  Source:   Resources/Icons/Application/Grr-Icon.icns
+  License:  GPL-3.0 (COPYING)
+
+gschess.png
+  App:      GSChess
+  Project:  https://github.com/gcasa/apps-gschess
+  Source:   Resources/app-icon.png
+  License:  no LICENSE or COPYING file found
+
+gshisen.tiff
+  App:      GShisen
+  Project:  https://github.com/nu-gap/apps-gshisen
+  Source:   Resources/GShisen.tiff
+  License:  no LICENSE or COPYING file found
+
+gspdf.tiff
+  App:      GSPdf
+  Project:  https://github.com/nu-gap/apps-gspdf
+  Source:   Resources/GSPdf.tiff
+  License:  no LICENSE or COPYING file found
+
+help.png
+  App:      Help
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Help/Help.png
+  License:  BSD-2-Clause (LICENSE)
+
+helpviewer.tiff
+  App:      HelpViewer
+  Project:  https://github.com/nu-gap/apps-helpviewer
+  Source:   Resources/HelpViewer.tiff
+  License:  GPL-2.0 (COPYING)
+
+installer.tiff
+  App:      Installer
+  Project:  https://github.com/nu-gap/apps-installer
+  Source:   Installer.app.tiff
+  License:  GPL-2.0 (COPYING)
+
+jigsaw.tiff
+  App:      Jigsaw
+  Project:  https://github.com/nu-gap/apps-jigsaw
+  Source:   Resources/GPuzzle2.tiff
+  License:  no LICENSE or COPYING file found
+
+jishyo.tiff
+  App:      Jishyo
+  Project:  https://github.com/nu-gap/apps-jishyo
+  Source:   Resources/GNUstep/Jishyo.tiff
+  License:  no LICENSE or COPYING file found
+
+ladder.tiff
+  App:      Ladder
+  Project:  https://github.com/nu-gap/apps-ladder
+  Source:   Ladder.tiff
+  License:  GPL-2.0 (COPYING.GPL)
+
+lapispuzzle.tiff
+  App:      LapisPuzzle
+  Project:  https://github.com/nu-gap/apps-lapispuzzle
+  Source:   LapisPuzzle.tiff
+  License:  GPL-2.0 (COPYING)
+
+laternamagica.tiff
+  App:      LaternaMagica
+  Project:  https://github.com/nu-gap/apps-laternamagica
+  Source:   Resources/laternamagica_48.tif
+  License:  no LICENSE or COPYING file found
+
+macbasic.png
+  App:      MacBasic
+  Project:  https://github.com/gcasa/MacBasic
+  Source:   Resources/MacBasicIcon.png
+  License:  LGPL-2.1 (LICENSE)
+
+mail.tiff
+  App:      Mail
+  Project:  https://github.com/onflapp/gs-mail
+  Source:   Resources/Icons/GNUMail.tiff
+  License:  no LICENSE or COPYING file found
+
+mandelbrot.png
+  App:      Mandelbrot
+  Project:  https://github.com/gcasa/Mandelbrot
+  Source:   assets/Mandelbrot.icns
+  License:  GPL-3.0 (LICENSE)
+
+manopen.png
+  App:      ManOpen
+  Project:  https://github.com/nu-gap/manopen
+  Source:   ManOpen/ManOpen.icns
+  License:  no LICENSE or COPYING file found
+
+markdownviewer.png
+  App:      MarkdownViewer
+  Project:  https://github.com/danjboyd/ObjcMarkdown
+  Source:   Resources/markdown_icon.png
+  License:  see LICENSE
+
+mediaplayer.tiff
+  App:      MediaPlayer
+  Project:  https://github.com/anthonyc-r/MediaPlayer
+  Source:   Resources/MediaPlayer.tiff
+  License:  GPL-3.0 (LICENSE)
+
+memwatch.tiff
+  App:      MemWatch
+  Project:  https://github.com/gcasa/apps-memwatch
+  Source:   Resources/MemWatch.tiff
+  License:  GPL-3.0 (LICENSE)
+
+modplugplay.tiff
+  App:      ModPlugPlay
+  Project:  https://github.com/alexmyczko/ModPlugPlay.app
+  Source:   ModPlugPlay.tiff
+  License:  no LICENSE or COPYING file found
+
+molecule.png
+  App:      Molecule
+  Project:  https://github.com/gcasa/Molecule
+  Source:   src/Molecule.icns
+  License:  no LICENSE or COPYING file found
+
+mpdcon.tiff
+  App:      MPDCon
+  Project:  https://github.com/nu-gap/apps-mpdcon
+  Source:   Resources/MPDCon.tiff
+  License:  no LICENSE or COPYING file found
+
+mplayer.tiff
+  App:      MPlayer
+  Project:  https://github.com/eukara/MPlayer.app
+  Source:   Resources/Images/MPlayerIcon.tiff
+  License:  no LICENSE or COPYING file found
+
+netcheck.tiff
+  App:      NetCheck
+  Project:  https://github.com/gcasa/apps-netcheck
+  Source:   Resources/NetCheck.tiff
+  License:  no LICENSE or COPYING file found
+
+nfsmanager.png
+  App:      NFSManager
+  Project:  https://github.com/gnustep/apps-nfsmanager
+  Source:   NFSManager/Assets.xcassets/AppIcon.appiconset/nfs_manager32 1.png
+  License:  GPL-3.0 (COPYING)
+
+notepad-thomasf.tiff
+  App:      Notepad (thomasf)
+  Project:  https://github.com/thomasfuhringer/notepad.app
+  Source:   Resources/AppIcon.tiff
+  License:  no LICENSE or COPYING file found
+
+nx-void.png
+  App:      NX Void
+  Project:  https://github.com/gcasa/NX_Void
+  Source:   Resources/NX_Void.png
+  License:  GPL-3.0 (LICENSE)
+
+pictureframe.tiff
+  App:      PictureFrame
+  Project:  https://github.com/nu-gap/apps-pictureframe
+  Source:   PictureFrame.tiff
+  License:  no LICENSE or COPYING file found
+
+player.png
+  App:      Player
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Player/Resources/Player.png
+  License:  BSD-2-Clause (LICENSE)
+
+ppc.tiff
+  App:      PPC
+  Project:  https://github.com/nu-gap/apps-ppc
+  Source:   Resources/PPC.tiff
+  License:  no LICENSE or COPYING file found
+
+processes.png
+  App:      Processes
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Processes/Resources/Processes.png
+  License:  BSD-2-Clause (LICENSE)
+
+projectcenter.tiff
+  App:      ProjectCenter
+  Project:  https://github.com/gnustep/apps-projectcenter
+  Source:   Images/ProjectCenter.tiff
+  License:  GPL-3.0 (COPYING)
+
+remotedesk.tiff
+  App:      RemoteDesk
+  Project:  https://github.com/nu-gap/apps-remotedesk
+  Source:   Resources/remotedesk.tiff
+  License:  no LICENSE or COPYING file found
+
+remotedesktop.png
+  App:      RemoteDesktop
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   RemoteDesktop/RemoteDesktop.icns
+  License:  BSD-2-Clause (LICENSE)
+
+resound.tiff
+  App:      Resound
+  Project:  https://github.com/nu-gap/apps-resound
+  Source:   Source/wav.tiff
+  License:  Apache-2.0 (LICENSE)
+
+scoremaker.png
+  App:      ScoreMaker
+  Project:  https://github.com/gcasa/apps-scoremaker
+  Source:   Resources/ScoreMakerAppIcon.png
+  License:  LGPL-2.1 (LICENSE)
+
+screenshot.png
+  App:      Screenshot
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Screenshot/Resources/Screenshot.png
+  License:  BSD-2-Clause (LICENSE)
+
+simpleagenda.tiff
+  App:      SimpleAgenda
+  Project:  https://github.com/poroussel/simpleagenda
+  Source:   Resources/Calendar.tiff
+  License:  GPL-2.0 (COPYING)
+
+spim.tiff
+  App:      SPIM
+  Project:  https://github.com/nu-gap/apps-nextspim
+  Source:   spim.tiff
+  License:  no LICENSE or COPYING file found
+
+st-tos.png
+  App:      ST TOS
+  Project:  https://github.com/gcasa/ST_TOS
+  Source:   Resources/STSOSIcon.png
+  License:  no LICENSE or COPYING file found
+
+stepbill.tiff
+  App:      StepBill
+  Project:  https://github.com/alexmyczko/StepBill.app
+  Source:   tiffs/icon.tiff
+  License:  GPL-2.0 (COPYING)
+
+stepdown.tiff
+  App:      StepDown
+  Project:  https://github.com/gcasa/stepdown
+  Source:   resources/StepDown.tiff
+  License:  no LICENSE or COPYING file found
+
+stepsync.tiff
+  App:      StepSync
+  Project:  https://github.com/nu-gap/apps-stepsync
+  Source:   Resources/StepSync.tiff
+  License:  no LICENSE or COPYING file found
+
+stepulator.tiff
+  App:      Stepulator
+  Project:  https://github.com/nu-gap/apps-stepulator
+  Source:   Resources/Stepulator.tiff
+  License:  no LICENSE or COPYING file found
+
+stickies.png
+  App:      Stickies
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Stickies/Stickies.png
+  License:  BSD-2-Clause (LICENSE)
+
+sudoku.tiff
+  App:      Sudoku
+  Project:  https://github.com/nu-gap/apps-sudoku
+  Source:   Resources/Sudoku.tiff
+  License:  no LICENSE or COPYING file found
+
+surfboard.tiff
+  App:      SurfBoard
+  Project:  https://github.com/anthonyc-r/SurfBoard
+  Source:   Resources/SurfBoard.tiff
+  License:  GPL-3.0 (LICENSE)
+
+systememulator.png
+  App:      SystemEmulator
+  Project:  https://github.com/probonopd/SystemEmulator
+  Source:   Resources/SystemEmulator.png
+  License:  no LICENSE or COPYING file found
+
+talksoup.tiff
+  App:      TalkSoup
+  Project:  https://github.com/nu-gap/apps-talksoup
+  Source:   Source/Images/TalkSoup.tiff
+  License:  GPL-2.0 (COPYING)
+
+textedit.tiff
+  App:      TextEdit
+  Project:  https://github.com/onflapp/gs-textedit
+  Source:   Edit.tiff
+  License:  MIT (LICENSE)
+
+the-unarchiver.png
+  App:      The Unarchiver
+  Project:  https://github.com/probonopd/theunarchiver-gnustep
+  Source:   Compat/unarchiver.png
+  License:  LGPL-2.1 (LICENSE)
+
+thelounge.png
+  App:      TheLounge
+  Project:  https://github.com/probonopd/TheLounge
+  Source:   Messages/Messages.png
+  License:  BSD-2-Clause (LICENSE)
+
+thematic.png
+  App:      Thematic
+  Project:  https://github.com/gnustep/apps-thematic
+  Source:   Thematic.png
+  License:  no LICENSE or COPYING file found
+
+timemon.tiff
+  App:      TimeMon
+  Project:  https://github.com/nu-gap/apps-timemon
+  Source:   TimeMon.tiff
+  License:  no LICENSE or COPYING file found
+
+vespucci.tiff
+  App:      Vespucci
+  Project:  https://github.com/nu-gap/apps-vespucci
+  Source:   Resources/vespucci_pastel_64.tif
+  License:  no LICENSE or COPYING file found
+
+vic20.png
+  App:      VIC20
+  Project:  https://github.com/gcasa/VIC20
+  Source:   VIC20/Assets.xcassets/AppIcon.appiconset/vic20.png
+  License:  GPL-3.0 (LICENSE)
+
+videoplayer.png
+  App:      VideoPlayer
+  Project:  https://github.com/gnustep/apps-videoplayer
+  Source:   Resources/videoplayer.png
+  License:  GPL-3.0 (LICENSE.md)
+
+volumecontrol.tiff
+  App:      VolumeControl
+  Project:  https://github.com/alexmyczko/VolumeControl.app
+  Source:   headphones.tiff
+  License:  GPL-2.0 (LICENSE)
+
+weather-paulo.png
+  App:      Weather (paulo)
+  Project:  https://github.com/paulodelgado/Weather.app
+  Source:   Resources/icon.png
+  License:  no LICENSE or COPYING file found
+
+webbrowser.tiff
+  App:      WebBrowser
+  Project:  https://github.com/onflapp/gs-webbrowser
+  Source:   Resources/WebBrowser.tiff
+  License:  MIT (LICENSE)
+
+whisper.png
+  App:      Whisper
+  Project:  https://github.com/gershwin-desktop/gershwin-components
+  Source:   Whisper/Resources/Whisper.png
+  License:  BSD-2-Clause (LICENSE)
+
+world-clock.tiff
+  App:      World Clock
+  Project:  https://github.com/mrtonik/Clock
+  Source:   Clock.tiff
+  License:  GPL-2.0 (LICENSE)
+
+ycode.tiff
+  App:      Ycode
+  Project:  https://github.com/nextbsd/libs-xcode
+  Source:   Applications/ycode/Resources/Ycode.tiff
+  License:  GPL-3.0 (Applications/ycode/COPYING)
+
+zipper.tiff
+  App:      Zipper
+  Project:  https://github.com/nu-gap/apps-zipper
+  Source:   Resources/zipper.tiff
+  License:  no LICENSE or COPYING file found

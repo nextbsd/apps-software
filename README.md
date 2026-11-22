@@ -10,9 +10,34 @@ remove GNUstep apps. It brings together three sources:
 - **[nu-gap](https://github.com/nu-gap)**: the GAP apps and libraries carried
   forward.
 
-Software is at the design stage. It's planned in
+Software is planned in
 [nextbsd/nextbsd#655](https://github.com/nextbsd/nextbsd/issues/655) (epic
 E43), with design notes in the [wiki](https://github.com/nextbsd/apps-software/wiki).
+The first version of the app is in [`Software/`](Software).
+
+## Building
+
+```sh
+gmake ADDITIONAL_LIB_DIRS="-L/Developer/Link -L/usr/X11/lib"
+gmake install    # Software.app in ~/Applications
+```
+
+Software.app shows the bundled catalog: Featured, Categories, a sortable app
+list with each app's details, Installed, Updates and the libraries, and
+Software → Preferences… for where new apps go. **Install** builds the app
+from source for the user, as Gershwin's Build.app does: a shallow `git
+clone`, the libraries it needs, `configure` where there is one, then `gmake`
+and `gmake install` with the catalog's make arguments and
+`GNUSTEP_INSTALLATION_DOMAIN=USER` on the command line, so it lands in
+`~/Applications` even for gershwin-components. The build runs on a thread of
+its own, with progress and a log (also in `~/Library/Logs/Software`). This
+computer and Network are shown but wait for the privileged helper
+([#4](https://github.com/nextbsd/apps-software/issues/4)); Updates waits for
+[#6](https://github.com/nextbsd/apps-software/issues/6).
+
+Installed apps are found in `~/Applications`, `/Local/Applications` and
+`/Network/Applications`. Software doesn't install an app that would take
+the place of one NextBSD ships (Terminal.app, say).
 
 ## Mockup
 
@@ -52,8 +77,19 @@ simulated.
 - [`catalog/software-data.json`](catalog/software-data.json): the three
   sources as collected for the mockup (`buildCatalog`, `gershwinComponents`,
   `nuGap`).
+- [`catalog/apps.json`](catalog/apps.json): every app and library from
+  them, with its category, as the mockup has them, plus Ycode from
+  NextBSD's fork of libs-xcode. Adding an app starts here.
 - [`catalog/icon-sources.json`](catalog/icon-sources.json): where each app's
   icon was found in its repository, or why none was.
+- [`catalog/build-catalog.plist`](catalog/build-catalog.plist): Build.app's
+  `Resources/Catalog.plist` (gershwin-components `dev`, f9e6712), for the
+  make arguments.
+- [`catalog/make-catalog.py`](catalog/make-catalog.py) makes
+  `Software/Resources/Catalog.plist` from them, applying the rules above;
+  [`catalog/fetch-icons.py`](catalog/fetch-icons.py) fetches the listed
+  apps' icons into `Software/Resources/CatalogIcons` and writes its
+  `CREDITS`.
 
 ## License
 
